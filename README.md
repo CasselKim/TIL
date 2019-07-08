@@ -14,7 +14,7 @@ The goal is to update this everyday... maybe
 
 
 
-## Update List
+## Update Log
 
 * (07/09/2019) Markdown Practice
 
