@@ -8,8 +8,8 @@ The goal is to update this everyday... maybe
 
 ## TIL List
 
-* [MarkDown](TIL/Markdown)
-* [CNN](TIL/CNN)
+* [MarkDown](/Markdown)
+* [CNN](/CNN)
 * 
 
 
