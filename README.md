@@ -10,7 +10,7 @@ The goal is to update this everyday... maybe
 
 * [MarkDown](./Markdown)
 * [Git](./Git)
-* 
+* [Coding](./Coding)
 
 
 
@@ -18,6 +18,7 @@ The goal is to update this everyday... maybe
 
 * (07/09/2019) Markdown Practice
 * (07/09/2019) Git Practice
+* (07/10/2019) Coding Practice
 
 
 ## Now Listen  
