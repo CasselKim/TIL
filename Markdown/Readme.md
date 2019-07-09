@@ -6,4 +6,5 @@
 ~~(StackEdit is more easy for me)~~
 
 ## Study Log  
-* [(07/09/2019) Start TIL with Markdown](./studylog/TIL_Markdown(190709).md)
+* [(07/09/2019) Start TIL with Markdown](./studylog/190709/TIL_Markdown(190709).md)
+
