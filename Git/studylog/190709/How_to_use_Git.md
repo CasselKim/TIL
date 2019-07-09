@@ -1,19 +1,5 @@
 # How to use Git
-## contents
 
-1. about Git
-
-2. install GitBash
-
-3. create new repository
-
-4. connect with root folder
-
-5. push and pull
-
-6. take other's git    
-
-   
 
 ### 1. About Git
 Git is **distributed version-control system** for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include **speed, data integrity, and support for distributed, non-linear workflow**
@@ -30,7 +16,7 @@ Git is **distributed version-control system** for tracking changes in source cod
 **Work Tree** : folders
 **Index** : the space between repository and work tree before executing commit
 
-![image](/capture_intro1_4_1.png)
+![image](./capture_intro1_4_1.png)
 
 when you edit files, you can commit files you want only.
 
@@ -44,7 +30,7 @@ when you edit files, you can commit files you want only.
 
 ### 3. create new repository
 
-![image](/git_cmd.png)
+![image](./git_cmd.png)
 
 
 
@@ -59,7 +45,7 @@ when you edit files, you can commit files you want only.
 
 
 
-![image](C:\Users\82103\Desktop\TIL\Git\local_repository.png)
+![image](./local_repository.png)
 
 
 
