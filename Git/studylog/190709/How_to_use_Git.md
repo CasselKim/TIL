@@ -8,13 +8,13 @@ Git is **distributed version-control system** for tracking changes in source cod
 
 
 
-**Repository** : remote Repository, Local Repository
-**Push** : upload to Remote Repository
-**Clone** : copy from other's repository to your Local Repository
-**Pull** : update from remote repository to local repository
-**Commit** : records of edits
-**Work Tree** : folders
-**Index** : the space between repository and work tree before executing commit
+**Repository** : remote Repository, Local Repository  
+**Push** : upload to Remote Repository  
+**Clone** : copy from other's repository to your Local Repository  
+**Pull** : update from remote repository to local repository  
+**Commit** : records of edits  
+**Work Tree** : folders  
+**Index** : the space between repository and work tree before executing commit  
 
 ![image](./capture_intro1_4_1.png)
 
@@ -56,3 +56,6 @@ When I create new files in local repository and want to push the whole things to
 * **git add file_name.type** : make index
 * **git commit -m "Add Text File [file_name.type]"** : commit files and leave comments about edits
 * **git push** : push this commitments
+
+
+[study with 동빈나](https://www.youtube.com/watch?v=rhP5pseOJc0)
