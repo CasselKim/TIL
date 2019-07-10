@@ -54,8 +54,12 @@ When I create new files in local repository and want to push the whole things to
 #### Command
 
 * **git add file_name.type** : make index (you can add all files by git add .)
+
 * **git commit -m "Add Text File [file_name.type]"** : commit files and leave comments about edits
+
 * **git push** : push this commitments
+
+  
 
 
 [study with 동빈나](https://www.youtube.com/watch?v=rhP5pseOJc0)

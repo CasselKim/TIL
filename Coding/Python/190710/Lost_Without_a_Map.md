@@ -1,4 +1,4 @@
-# Beginner - Lost Without a Map
+# [8 kyu] Beginner - Lost Without a Map
 
 ![image](./Problem.png)
 
