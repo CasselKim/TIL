@@ -18,6 +18,8 @@ Jupyter notebook
 
 [(07/11/19) [7 kyu] Average Array](./Python/190711/OnedayCoding.md)
 
+[(07/12/19) [7 kyu] Find the stray number](./Python/190712/OnedayCoding.md)
+
 
 
 
