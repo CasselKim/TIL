@@ -77,7 +77,7 @@ def avg_array(arrs):
 
 ## The things I got
 
-​	**zip(*iterable)** : Take **iterables** (can be zero or more), makes **iterator **that aggregates(종합) elements based on the iterables passed, and returns an iterator of tuples.
+​	**zip(*iterable)** : Take **iterables** (can be zero or more), makes **iterator** that aggregates(종합) elements based on the iterables passed, and returns an iterator of tuples.
 
 ```python
 a = [1,2,3]
@@ -102,5 +102,7 @@ print(*c) // value of the pointer
 [python docs - Iterator](https://docs.python.org/3/glossary.html#term-iterator)
 
 
+  
+  
 
 study with [Programiz](https://www.programiz.com/python-programming/methods/built-in/zip)

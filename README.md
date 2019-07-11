@@ -21,6 +21,7 @@ The goal is to update this everyday... maybe
 * (07/09/2019) Git Practice
 
 * (07/10/2019) Coding Practice
+* (07/11/2019) Coding Practice
 
 * (07/11/2019) Coding Practice
 
