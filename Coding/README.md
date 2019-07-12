@@ -20,7 +20,9 @@ Jupyter notebook
 
 [(07/12/19) [7 kyu] Find the stray number](./Python/190712/OnedayCoding.md)
 
+[(07/13/19) [6 kyu] The Spider and the Fly(Jumping Spider)](./Python/190713/OnedayCoding.md)
 
+[(07/13/19) [6 Kyu] Give me a Diamond](./Python/190713/OnedayCoding2.md)
 
 
 
