@@ -24,6 +24,8 @@ Jupyter notebook
 
 [(07/13/19) [6 Kyu] Give me a Diamond](./Python/190713/OnedayCoding2.md)
 
+[(07/14/19) [7 kyu] Sum of the first nth term of Series](./Python/190714/OnedayCoding.md)
+
 
 
 ## Java Log

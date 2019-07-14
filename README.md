@@ -28,9 +28,11 @@ The goal is to update this everyday... maybe
 
 * (07/13/2019) Coding Practice
 
+* (07/14/2019) Coding Practice
+
   
 
 
 ## Now Listen  
 
-Heize - we don't talk together (Fear. 기리보이) (Prod. SUGA)
+- Anne Marie - 2002
