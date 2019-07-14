@@ -26,6 +26,8 @@ Jupyter notebook
 
 [(07/14/19) [7 kyu] Sum of the first nth term of Series](./Python/190714/OnedayCoding.md)
 
+[(07/15/19)[6 Kyu] Does my number look big in this?](./Python/190715/OnedayCoding.md)
+
 
 
 ## Java Log
