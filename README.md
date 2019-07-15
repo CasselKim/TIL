@@ -32,6 +32,8 @@ The goal is to update this everyday... maybe
 
 * (07/15/2019) Coding Practice
 
+* (07/16/2019) Coding Practice
+
   
 
 
