@@ -36,6 +36,7 @@ The goal is to update this everyday... maybe
 
 * (07/17/2019) Coding Practice
 
+* (07/17/2019) Studying NN
   
 
 
