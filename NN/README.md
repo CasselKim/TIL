@@ -20,7 +20,6 @@
 
 ## Raw Study Log
 
-[(07/17/19) conquering...01](./Raw_study/190717/conquering.md)
-
+[(07/17/19) conquering...01](./Raw_Study/190717/conquering.md)
 
 
