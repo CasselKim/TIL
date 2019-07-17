@@ -34,9 +34,11 @@ The goal is to update this everyday... maybe
 
 * (07/16/2019) Coding Practice
 
+* (07/17/2019) Coding Practice
+
   
 
 
 ## Now Listen  
 
-- Anne Marie - 2002
+- just listening to the sound of rain

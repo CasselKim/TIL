@@ -30,6 +30,8 @@ Jupyter notebook
 
 [(07/16/19) [6 Kyu] Validate Credit Card Number](./Python/190716/OnedayCoding.md)
 
+[(07/17/19) [6 Kyu] Create Phone Number](./Python/190717/OnedayCoding.md)
+
 
 
 
