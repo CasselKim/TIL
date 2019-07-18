@@ -34,6 +34,8 @@ Jupyter notebook
 
 [(07/18/19) [6 Kyu] Shortest steps to a number](./Python/190718/OnedayCoding.md)
 
+[(07/19/19) [6 kyu] Is a number prime?](./Python/190719/OnedayCoding.md)
+
 
 
 

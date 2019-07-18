@@ -9,9 +9,14 @@ The goal is to update this everyday... maybe
 ## TIL List
 
 * [MarkDown](./Markdown)
+
 * [Git](./Git)
+
 * [Coding](./Coding)
+
 * [NN](./NN)
+
+  
 
 
 ## Update Log
@@ -42,12 +47,13 @@ The goal is to update this everyday... maybe
 
 * (07/18/2019) Studying NN
 
+* (07/19/2019) Coding Practice
+
+* (07/19/2019) Studying NN
+
   
 
 
 ## Now Listen  
 
-
-장혜진, 윤민수 - 술이 문제야
-
-- just listening to the sound of rain
+White noise
