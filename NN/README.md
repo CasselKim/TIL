@@ -20,7 +20,12 @@
 
 ## Raw Study Log
 
+<<<<<<< HEAD
 [(07/17/19) conquering...01](./Raw_study/190717/conquering.md)
 
 [(07/18/19) conquering...02](./Raw_study/190718/conquering.md)
+=======
+[(07/17/19) conquering...01](./Raw_Study/190717/conquering.md)
+
+>>>>>>> 44270417c93da6f61a91a8f693a46b801299c7f7
 
