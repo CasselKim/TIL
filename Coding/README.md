@@ -32,6 +32,8 @@ Jupyter notebook
 
 [(07/17/19) [6 Kyu] Create Phone Number](./Python/190717/OnedayCoding.md)
 
+[(07/18/19) [6 Kyu] Shortest steps to a number](./Python/190718/OnedayCoding.md)
+
 
 
 

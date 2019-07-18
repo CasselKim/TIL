@@ -22,5 +22,5 @@
 
 [(07/17/19) conquering...01](./Raw_study/190717/conquering.md)
 
-
+[(07/18/19) conquering...02](./Raw_study/190718/conquering.md)
 
