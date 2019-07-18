@@ -16,6 +16,8 @@ The goal is to update this everyday... maybe
 
 * [NN](./NN)
 
+* [Electronic Engineering](./Electronic)
+
   
 
 
@@ -50,6 +52,8 @@ The goal is to update this everyday... maybe
 * (07/19/2019) Coding Practice
 
 * (07/19/2019) Studying NN
+
+* (07/19/2019) Studying Electronics
 
   
 
