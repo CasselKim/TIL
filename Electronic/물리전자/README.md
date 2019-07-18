@@ -25,13 +25,13 @@ SiO2 : 부도체(배리어)로 사용
 
 
 
-![1563432071855](.\1563432071855.png)
+![1563432071855](1563432071855.png)
 
 
 
 ## Photo Lithography(인쇄)
 
-![1563432296714](.\1563432296714.png)
+![1563432296714](1563432296714.png)
 
 
 
@@ -43,7 +43,7 @@ SiO2 : 부도체(배리어)로 사용
 
 ## Wet Lithography(Immersion Lithography)
 
-![1563432876623](.\1563432876623.png)
+![1563432876623](1563432876623.png)
 
 
 
@@ -68,7 +68,7 @@ Wet Lithography : 파장이 더 짧아져서 더 정교한 패턴을 넣을 수 
 
 ## Pattern Transfer-Etching
 
-![1563433607089](.\1563433607089.png)
+![1563433607089](1563433607089.png)
 
 * Wet etching :  Isotropic(등방성), good selectivity(원하는거만 제거)
 * Dry etching : anisotropic(일방성), bad selectivity(다 제거) -> 여기서 멈추라는 가스를 발라줘야함
@@ -83,7 +83,7 @@ Wet Lithography : 파장이 더 짧아져서 더 정교한 패턴을 넣을 수 
 
 ## Doping
 
-**Predeposition ** : 이온을 쏴주는거
+**Predeposition** : 이온을 쏴주는거
 
 (Ion Implantation , Gas-source Doping, Solid-source Diffusion)
 
@@ -93,7 +93,7 @@ Wet Lithography : 파장이 더 짧아져서 더 정교한 패턴을 넣을 수 
 
 ### [Predeposition] Ion Implantation
 
-![1563445148218](.\1563445148218.png)
+![1563445148218](1563445148218.png)
 
 Dopant 이온을 쏴주는거
 
@@ -114,7 +114,7 @@ Dopant 이온을 쏴주는거
 
 ### [Drive-in] Ion Distribution : Gaussian Distribution
 
-![1563446163565](.\1563446163565.png)
+![1563446163565](1563446163565.png)
 
 **Projected(Implantation) Range(R)** : 이온이 움직인 평균 거리
 
@@ -124,7 +124,7 @@ Dopant 이온을 쏴주는거
 
 
 
-![1563446459515](.\1563446459515.png)
+![1563446459515](1563446459515.png)
 
 P(인)을 Si(실리콘)에 도핑시킨 정도를 그래프에 나타낸 것
 
@@ -134,7 +134,7 @@ P(인)을 Si(실리콘)에 도핑시킨 정도를 그래프에 나타낸 것
 
 ## Dopant Diffusion
 
-![1563447003917](.\1563447003917.png)
+![1563447003917](1563447003917.png)
 
 
 
@@ -158,7 +158,7 @@ Dopant Diffusion이 가우스 분포를 그린다!
 
 **Deposition** : 햄버거처럼 차곡차곡 쌓는 공정
 
-![1563449197200](.\1563449197200.png)
+![1563449197200](1563449197200.png)
 
 * **Crystalline** : 완벽한 주기적 구조 (실리콘 웨이퍼, 다이아몬드)
 
@@ -198,7 +198,7 @@ Amorphous, Polycrystalline : 트랜지스터 성능 low, 캐리어 모빌리티 
 
 
 
-![1563455430559](.\1563455430559.png)
+![1563455430559](1563455430559.png)
 
 
 
@@ -256,7 +256,7 @@ CVD : gas-phase reaction으로 deposition이 Confomal(등각) 해지는것
 
 단결정으로 이루어진 웨이퍼에 얇은 박막결정을 성장시키는것(기판과 같은 구조, 방향성)
 
-![1563453586037](.\1563453586037.png)
+![1563453586037](1563453586037.png)
 
 
 
@@ -266,7 +266,7 @@ CVD : gas-phase reaction으로 deposition이 Confomal(등각) 해지는것
 
   ​							 -> 불균형하게 쌓이는거
 
-![1563454382222](.\1563454382222.png)
+![1563454382222](1563454382222.png)
 
 * **superlattice** : a ~ 10a (nm) 두께의 2종 이상의 결정층이 주기적으로 쌓인 결정 구조
 
@@ -276,7 +276,7 @@ CVD : gas-phase reaction으로 deposition이 Confomal(등각) 해지는것
 
     너무 얇으면 평균값으로 자라나서(uniform strain)해서 accomodate한다
 
-![1563455257752](.\1563455257752.png)
+![1563455257752](1563455257752.png)
 
 
 
@@ -288,7 +288,7 @@ CVD : gas-phase reaction으로 deposition이 Confomal(등각) 해지는것
 
 ## 총 정리
 
-![1563463889849](.\1563463889849.png)
+![1563463889849](1563463889849.png)
 
 0. **웨이퍼 제작** : 반도체의 기본재료, Si GaAS를 이용해 디스크모양
 
@@ -373,4 +373,4 @@ CVD : gas-phase reaction으로 deposition이 Confomal(등각) 해지는것
       2. 도선 접착 후(automated wire bonding + solder bump(매칭 패드와 연결 후 녹이는거))
       3. 세라믹 or 메탈 커버로 밀봉
 
-![1563470115690](.\1563470115690.png)
+![1563470115690](1563470115690.png)
