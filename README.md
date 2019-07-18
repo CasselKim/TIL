@@ -11,7 +11,7 @@ The goal is to update this everyday... maybe
 * [MarkDown](./Markdown)
 * [Git](./Git)
 * [Coding](./Coding)
-
+* [NN](./NN)
 
 
 ## Update Log
