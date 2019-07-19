@@ -36,7 +36,7 @@ Jupyter notebook
 
 [(07/19/19) [6 kyu] Is a number prime?](./Python/190719/OnedayCoding.md)
 
-
+[(07/20/19) [5 kyu] Double Cola](./Python/190720/OnedayCoding.md)
 
 
 

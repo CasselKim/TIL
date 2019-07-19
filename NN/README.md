@@ -1,4 +1,4 @@
-# Please let me conquer the MNIST
+# 0Please let me conquer the MNIST
 
 #### Study with
 
@@ -25,4 +25,6 @@
 [(07/18/19) conquering...02](./Raw_Study/190718/conquering.md)
 
 [(07/19/19) conquering...03](./Raw_Study/190719/conquering.md)
+
+[(07/20/19) conquering...04](./Raw_Study/190720/conquering.md)
 
