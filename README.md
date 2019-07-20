@@ -59,9 +59,10 @@ The goal is to update this everyday... maybe
 
 * (07/20/2019) Studying NN
 
+* (07/21/2019) Studying NN
+
   
 
 
 ## Now Listen  
 
-Tove Styrke - Sway
