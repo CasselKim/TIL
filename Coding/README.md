@@ -38,6 +38,8 @@ Jupyter notebook
 
 [(07/20/19) [5 kyu] Double Cola](./Python/190720/OnedayCoding.md)
 
+[(07/21/19) [6 Kyu] Simple Simple Simple String Expansion](./Python/190721/OnedayCoding.md)
+
 
 
 ## Java Log
