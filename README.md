@@ -63,9 +63,12 @@ The goal is to update this everyday... maybe
 
 * (07/21/2019) Coding Practice
 
+* (07/22/2019) Coding Practice
+
+* (07/22/2019) Studying NN
+
   
 
 
 ## Now Listen  
 
-Produce X

@@ -40,6 +40,8 @@ Jupyter notebook
 
 [(07/21/19) [6 Kyu] Simple Simple Simple String Expansion](./Python/190721/OnedayCoding.md)
 
+[(07/22/19) [6 kyu] Dubstep](./Python/190722/OnedayCoding.md)
+
 
 
 ## Java Log
