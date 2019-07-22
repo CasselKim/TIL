@@ -32,3 +32,4 @@
 
 [(07/22/19) conquering...06](./Raw_Study/190722/conquering.md)
 
+[(07/23/19) conquering...06](./Raw_Study/190722/conquering.md)

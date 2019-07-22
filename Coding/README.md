@@ -42,6 +42,8 @@ Jupyter notebook
 
 [(07/22/19) [6 kyu] Dubstep](./Python/190722/OnedayCoding.md)
 
+[(07/23/19) [6 kyu] The Walker](./Python/190723/OnedayCoding.md)
+
 
 
 ## Java Log

@@ -67,8 +67,13 @@ The goal is to update this everyday... maybe
 
 * (07/22/2019) Studying NN
 
+* (07/23/2019) Coding Practice
+
+* (07/23/2019) Studying NN
+
   
 
 
 ## Now Listen  
 
+Post Malone - Goodbyes (Feat. Young Thug)
