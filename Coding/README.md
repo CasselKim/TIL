@@ -44,6 +44,8 @@ Jupyter notebook
 
 [(07/23/19) [6 kyu] The Walker](./Python/190723/OnedayCoding.md)
 
+[(07/24/19) [6 Kyu] Find the odd int](./Python/190724/OnedayCoding.md)
+
 
 
 ## Java Log
