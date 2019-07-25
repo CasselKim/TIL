@@ -48,6 +48,8 @@ Jupyter notebook
 
 [(07/25/19) [6 Kyu] Decode the Morse code](./Python/190725/OnedayCoding.md)
 
+[(07/26/19) [6 Kyu] Separate The Wheat From The Chaff](./Python/190726/OnedayCoding.md)
+
 
 
 ## Java Log

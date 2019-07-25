@@ -8,9 +8,7 @@ The goal is to update this everyday... maybe
 
 ## TIL List
 
-* [MarkDown](./Markdown)
-
-* [Git](./Git)
+* [Programs](https://github.com/CasselKim/Programs)
 
 * [Coding](./Coding)
 
@@ -79,9 +77,15 @@ The goal is to update this everyday... maybe
 
 * (07/25/2019) Studying NN
 
+* (07/26/2019) Coding Practice
+
+* (07/26/2019) Studying NN
+
+  
+
   
 
 
 ## Now Listen  
 
-Steve Aoki, Darren Criss - Crash Into Me
+NONE

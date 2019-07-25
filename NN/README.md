@@ -50,5 +50,5 @@
 
 [(07/25/19) conquering...09](./Raw_Study/190725/conquering.md)
 
-
+[(07/26/19) conquering...10](./Raw_Study/190726/conquering.md)
 
