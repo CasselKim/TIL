@@ -46,6 +46,8 @@ Jupyter notebook
 
 [(07/24/19) [6 Kyu] Find the odd int](./Python/190724/OnedayCoding.md)
 
+[(07/25/19) [6 Kyu] Decode the Morse code](./Python/190725/OnedayCoding.md)
+
 
 
 ## Java Log

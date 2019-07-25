@@ -10,6 +10,18 @@
 
 
 
+## Reference
+
+[Neural Network 3D Simulation](https://youtu.be/3JQ3hYko51Y)
+
+[KAIST NAVER Clova AI Workshop](https://www.youtube.com/playlist?list=PLgJQ1dsC4sfef1ez-5kJCFykyt6_6wLev&app=desktop)
+
+[QuickDraw From Google](https://pypi.org/project/quickdraw/)
+
+
+
+
+
 ## Documented Study Log
 
 
@@ -35,4 +47,8 @@
 [(07/23/19) conquering...07](./Raw_Study/190723/conquering.md)
 
 [(07/24/19) conquering...08](./Raw_Study/190724/conquering.md)
+
+[(07/25/19) conquering...09](./Raw_Study/190725/conquering.md)
+
+
 

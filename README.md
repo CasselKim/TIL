@@ -75,9 +75,13 @@ The goal is to update this everyday... maybe
 
 * (07/24/2019) Studying NN
 
+* (07/25/2019) Coding Practice
+
+* (07/25/2019) Studying NN
+
   
 
 
 ## Now Listen  
 
-백현 - UN Village
+Steve Aoki, Darren Criss - Crash Into Me
