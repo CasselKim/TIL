@@ -81,6 +81,8 @@ The goal is to update this everyday... maybe
 
 * (07/26/2019) Studying NN
 
+* (07/26/2019) Studying Notion
+
   
 
   
