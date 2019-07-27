@@ -50,6 +50,8 @@ Jupyter notebook
 
 [(07/26/19) [6 Kyu] Separate The Wheat From The Chaff](./Python/190726/OnedayCoding.md)
 
+[(07/27/19) [6 Kyu] Reverse every other word in the string](./Python/190727/OnedayCoding.md)
+
 
 
 ## Java Log

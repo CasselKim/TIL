@@ -83,6 +83,12 @@ The goal is to update this everyday... maybe
 
 * (07/26/2019) Studying Notion
 
+* (07/27/2019) Studying Notion
+
+* (07/27/2019) Coding Practice
+
+* (07/27/2019) Study Taebohae
+
   
 
   
@@ -90,4 +96,4 @@ The goal is to update this everyday... maybe
 
 ## Now Listen  
 
-NONE
+EXO - Love Shot
