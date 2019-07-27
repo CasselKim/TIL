@@ -89,6 +89,8 @@ The goal is to update this everyday... maybe
 
 * (07/27/2019) Study Taebohae
 
+* (07/28/2019) Coding Practice
+
   
 
   
@@ -96,4 +98,4 @@ The goal is to update this everyday... maybe
 
 ## Now Listen  
 
-EXO - Love Shot
+Nope

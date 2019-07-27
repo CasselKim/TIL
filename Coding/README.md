@@ -52,6 +52,12 @@ Jupyter notebook
 
 [(07/27/19) [6 Kyu] Reverse every other word in the string](./Python/190727/OnedayCoding.md)
 
+[(07/28/19) [6 kyu] Rank Vector](./Python/190728/OnedayCoding.md)
+
+
+
+
+
 
 
 ## Java Log
