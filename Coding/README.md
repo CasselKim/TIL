@@ -54,9 +54,7 @@ Jupyter notebook
 
 [(07/28/19) [6 kyu] Rank Vector](./Python/190728/OnedayCoding.md)
 
-
-
-
+[(07/29/19) [6 Kyu] Fantabulous Birthday](./Python/190729/OnedayCoding.md)
 
 
 

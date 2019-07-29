@@ -16,6 +16,8 @@ The goal is to update this everyday... maybe
 
 * [Electronic Engineering](./Electronic)
 
+* [After Effect Outcome](https://www.youtube.com/watch?v=2WhzsvoYrRw)
+
   
 
 
@@ -91,6 +93,12 @@ The goal is to update this everyday... maybe
 
 * (07/28/2019) Coding Practice
 
+* (07/29/2019) Study After Effect
+
+* (07/29/2019) Coding Practice
+
+* (07/29/2019) Studying NN
+
   
 
   
@@ -98,4 +106,4 @@ The goal is to update this everyday... maybe
 
 ## Now Listen  
 
-Nope
+Pray For the Wicked - King Of The Clouds
