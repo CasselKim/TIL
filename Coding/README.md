@@ -56,6 +56,8 @@ Jupyter notebook
 
 [(07/29/19) [6 Kyu] Fantabulous Birthday](./Python/190729/OnedayCoding.md)
 
+[(07/30/19) [6 Kyu] Multiples of 3 or 5](./Python/190730/OnedayCoding.md)
+
 
 
 ## Java Log

@@ -99,6 +99,12 @@ The goal is to update this everyday... maybe
 
 * (07/29/2019) Studying NN
 
+* (07/30/2019) Coding Practice
+
+* (07/30/2019) Studying NN
+
+  
+
   
 
   
@@ -106,4 +112,4 @@ The goal is to update this everyday... maybe
 
 ## Now Listen  
 
-Pray For the Wicked - King Of The Clouds
+문문 - 비행운
