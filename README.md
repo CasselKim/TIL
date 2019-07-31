@@ -103,7 +103,9 @@ The goal is to update this everyday... maybe
 
 * (07/30/2019) Studying NN
 
-  
+* (07/31/2019) Coding Practice
+
+* (07/31/2019) Study After Effect
 
   
 
