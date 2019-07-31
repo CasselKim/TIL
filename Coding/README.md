@@ -16,7 +16,7 @@ Jupyter notebook
 
 
 <details>  
-<summary>07/../19</summary>  
+<summary>July/2019</summary>  
 <div markdown="1">  
   
   
