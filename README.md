@@ -22,6 +22,9 @@ The goal is to update this everyday... maybe
 
 
 ## Update Log
+<details>  
+<summary>July/2019</summary>  
+<div markdown="1">  
 
 * (07/09/2019) Markdown Practice
 
@@ -107,9 +110,12 @@ The goal is to update this everyday... maybe
 
 * (07/31/2019) Study After Effect
 
-  
+</div>  
+</details>
 
-  
+- (08/01/2019) Coding Practice
+- (08/01/2019) Study After Effect
+
 
 
 ## Now Listen  

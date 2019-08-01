@@ -14,6 +14,12 @@ Jupyter notebook
 
 ## Python Log
 
+<details>  
+<summary>July/2019</summary>  
+<div markdown="1">  
+
+
+
 [(07/10/19) [8 kyu] Beginner - Lost Without a Map](./Python/190710/Lost_Without_a_Map.md)
 
 [(07/11/19) [7 kyu] Average Array](./Python/190711/OnedayCoding.md)
@@ -59,6 +65,10 @@ Jupyter notebook
 [(07/30/19) [6 Kyu] Multiples of 3 or 5](./Python/190730/OnedayCoding.md)
 
 [(07/31/19) [6 Kyu] Find The Parity Outlier](./Python/190731/OnedayCoding.md)
+</div>  
+</details>  
+
+[(08/01/19) [6 Kyu] Sum of Digits / Digital Root](./Python/190801/OnedayCoding.md)
 
 
 
@@ -71,4 +81,3 @@ Jupyter notebook
 
 
 ## C Log
-
