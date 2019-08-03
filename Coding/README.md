@@ -73,6 +73,8 @@ Jupyter notebook
 
 [(08/02/19) [5 Kyu] Moving Zeros To The End / Digital Root](./Python/190802/OnedayCoding.md)  
 
+[(08/03/19) [6 Kyu] Easy Diagonal](./Python/190803/OnedayCoding.md)  
+
 
 
 
