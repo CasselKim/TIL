@@ -75,7 +75,7 @@ Jupyter notebook
 
 [(08/03/19) [6 Kyu] Easy Diagonal](./Python/190803/OnedayCoding.md)  
 
-
+[(08/04/19) [5 Kyu] Last digit of a large number](./Python/190804/OnedayCoding.md)  
 
 
 ## Java Log

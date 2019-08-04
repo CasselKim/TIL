@@ -119,7 +119,9 @@ The goal is to update this everyday... maybe
 - (08/02/2019) Coding Practice
 - (08/02/2019) Start Yahac
 - (08/03/2019) Coding Practice
-- (08/03/2019) Start Yahac
+- (08/03/2019) Keep Yahac
+- (08/04/2019) Coding Practice
+- (08/04/2019) Proceed Yahac
 
 
 
