@@ -122,9 +122,10 @@ The goal is to update this everyday... maybe
 - (08/03/2019) Keep Yahac
 - (08/04/2019) Coding Practice
 - (08/04/2019) Proceed Yahac
+- (08/05/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-문문 - 비행운
+펜타곤 - Runaway

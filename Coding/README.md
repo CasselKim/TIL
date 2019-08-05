@@ -77,6 +77,12 @@ Jupyter notebook
 
 [(08/04/19) [5 Kyu] Last digit of a large number](./Python/190804/OnedayCoding.md)  
 
+[(08/05/19) [6 Kyu] Mexican Wave](./Python/190805/OnedayCoding.md)  
+
+
+
+
+
 
 ## Java Log
 
