@@ -79,7 +79,7 @@ Jupyter notebook
 
 [(08/05/19) [6 Kyu] Mexican Wave](./Python/190805/OnedayCoding.md)  
 
-
+[(08/06/19) [6 Kyu] Equal Sides Of An Array](./Python/190806/OnedayCoding.md)  
 
 
 

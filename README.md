@@ -123,6 +123,8 @@ The goal is to update this everyday... maybe
 - (08/04/2019) Coding Practice
 - (08/04/2019) Proceed Yahac
 - (08/05/2019) Coding Practice
+- (08/06/2019) Coding Practice
+- (08/06/2019) Proceed Yahac
 
 
 
