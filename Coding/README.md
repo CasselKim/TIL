@@ -81,6 +81,8 @@ Jupyter notebook
 
 [(08/06/19) [6 Kyu] Equal Sides Of An Array](./Python/190806/OnedayCoding.md)  
 
+[(08/07/19) [5 Kyu] Directions Reduction](./Python/190807/OnedayCoding.md)
+
 
 
 
