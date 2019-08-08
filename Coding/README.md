@@ -83,6 +83,8 @@ Jupyter notebook
 
 [(08/07/19) [5 Kyu] Directions Reduction](./Python/190807/OnedayCoding.md)
 
+[(08/08/19) [5 Kyu] Greed is Good](./Python/190808/OnedayCoding.md)
+
 
 
 
