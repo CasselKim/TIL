@@ -129,9 +129,9 @@ The goal is to update this everyday... maybe
 - (08/07/2019) Proceed Yahac
 - (08/08/2019) Coding Practice
 - (08/08/2019) Proceed Yahac
+- (08/09/2019) Coding Practice
+- (08/09/2019) Proceed Yahac
 
 
 
 ## Now Listen  
-
-1 TEAM - 롤링롤링

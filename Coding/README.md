@@ -85,7 +85,7 @@ Jupyter notebook
 
 [(08/08/19) [5 Kyu] Greed is Good](./Python/190808/OnedayCoding.md)
 
-
+[(08/09/19) [6 Kyu] Tribonacci Sequence](./Python/190809/OnedayCoding.md)
 
 
 ## Java Log
