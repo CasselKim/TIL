@@ -134,6 +134,7 @@ The goal is to update this everyday... maybe
 - (08/10/2019) Coding Practice
 - (08/10/2019) Proceed Yahac
 - (08/11/2019) Coding Practice
+- (08/12/2019) Coding Practice
 
 
 

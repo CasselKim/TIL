@@ -91,6 +91,8 @@ Jupyter notebook
 
 [(08/11/19) [6 Kyu] Playing with digits](./Python/190811/OnedayCoding.md)
 
+[(08/12/19) [6 Kyu] Stop gninnipS My sdroW!](./Python/190812/OnedayCoding.md)
+
 
 
 
