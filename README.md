@@ -133,9 +133,9 @@ The goal is to update this everyday... maybe
 - (08/09/2019) Proceed Yahac
 - (08/10/2019) Coding Practice
 - (08/10/2019) Proceed Yahac
+- (08/11/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-기리보이 - 아퍼(Feat. Kid Milli, Lil tachi, 김승민, NO:EL, C JAMM)

@@ -89,6 +89,8 @@ Jupyter notebook
 
 [(08/10/19) [5 Kyu] Calculating with Functions](./Python/190810/OnedayCoding.md)
 
+[(08/11/19) [6 Kyu] Playing with digits](./Python/190811/OnedayCoding.md)
+
 
 
 
