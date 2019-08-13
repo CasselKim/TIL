@@ -93,6 +93,8 @@ Jupyter notebook
 
 [(08/12/19) [6 Kyu] Stop gninnipS My sdroW!](./Python/190812/OnedayCoding.md)
 
+[(08/13/19) [6 Kyu] Counting Duplicates](./Python/190813/OnedayCoding.md)
+
 
 
 
