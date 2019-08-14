@@ -95,6 +95,10 @@ Jupyter notebook
 
 [(08/13/19) [6 Kyu] Counting Duplicates](./Python/190813/OnedayCoding.md)
 
+[(08/14/19) [6 Kyu] Your order, please](./Python/190814/OnedayCoding.md)
+
+
+
 
 
 

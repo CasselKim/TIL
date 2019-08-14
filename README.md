@@ -136,6 +136,7 @@ The goal is to update this everyday... maybe
 - (08/11/2019) Coding Practice
 - (08/12/2019) Coding Practice
 - (08/13/2019) Coding Practice
+- (08/14/2019) Coding Practice
 
 
 
