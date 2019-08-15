@@ -97,7 +97,7 @@ Jupyter notebook
 
 [(08/14/19) [6 Kyu] Your order, please](./Python/190814/OnedayCoding.md)
 
-
+[(08/15/19) [6 Kyu] Count the smiley faces!](./Python/190815/OnedayCoding.md)
 
 
 
