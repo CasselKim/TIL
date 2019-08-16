@@ -99,6 +99,8 @@ Jupyter notebook
 
 [(08/15/19) [6 Kyu] Count the smiley faces!](./Python/190815/OnedayCoding.md)
 
+[(08/16/19) [5 Kyu] Sum of Pairs](./Python/190816/OnedayCoding.md)
+
 
 
 
