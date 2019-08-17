@@ -103,6 +103,8 @@ Jupyter notebook
 
 [(08/17/19) [6 Kyu] Duplicate Encoder](./Python/190817/OnedayCoding.md)
 
+[(08/18/19) [6 Kyu] Take a Ten Minute Walk](./Python/190818/OnedayCoding.md)
+
 
 
 
