@@ -141,9 +141,9 @@ The goal is to update this everyday... maybe
 - (08/16/2019) Coding Practice
 - (08/17/2019) Coding Practice
 - (08/18/2019) Coding Practice
+- (08/19/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-임한별 - 이별하러 가는 길

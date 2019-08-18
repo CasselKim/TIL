@@ -105,6 +105,8 @@ Jupyter notebook
 
 [(08/18/19) [6 Kyu] Take a Ten Minute Walk](./Python/190818/OnedayCoding.md)
 
+[(08/19/19) [6 Kyu] String transformer](./Python/190819/OnedayCoding.md)
+
 
 
 
