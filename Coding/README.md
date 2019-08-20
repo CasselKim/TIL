@@ -107,6 +107,8 @@ Jupyter notebook
 
 [(08/19/19) [6 Kyu] String transformer](./Python/190819/OnedayCoding.md)
 
+[(08/20/19) [5 Kyu] Weight for weight](./Python/190820/OnedayCoding.md)
+
 
 
 
