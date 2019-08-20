@@ -109,6 +109,8 @@ Jupyter notebook
 
 [(08/20/19) [5 Kyu] Weight for weight](./Python/190820/OnedayCoding.md)
 
+[(08/21/19) [5 Kyu] Valid Parentheses](./Python/190821/OnedayCoding.md)
+
 
 
 
