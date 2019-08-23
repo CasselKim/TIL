@@ -113,6 +113,10 @@ Jupyter notebook
 
 [(08/22/19) [4 Kyu] Next bigger number with the same digits](./Python/190822/OnedayCoding.md)
 
+[(08/23/19) [4 Kyu] parseInt() reloaded](./Python/190823/OnedayCoding.md)
+
+
+
 
 
 
