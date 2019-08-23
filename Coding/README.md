@@ -115,7 +115,7 @@ Jupyter notebook
 
 [(08/23/19) [4 Kyu] parseInt() reloaded](./Python/190823/OnedayCoding.md)
 
-
+[(08/24/19) [5 Kyu] Maximum subarray sum](./Python/190824/OnedayCoding.md)
 
 
 

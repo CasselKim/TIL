@@ -146,9 +146,10 @@ The goal is to update this everyday... maybe
 - (08/21/2019) Coding Practice
 - (08/22/2019) Coding Practice
 - (08/23/2019) Coding Practice
+- (08/24/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-가온 - 망설였던 말( Feat. 준뱅이 )
+11시11분 - Wedding Song( Feat. 신소희 )
