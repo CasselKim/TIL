@@ -117,6 +117,8 @@ Jupyter notebook
 
 [(08/24/19) [5 Kyu] Maximum subarray sum](./Python/190824/OnedayCoding.md)
 
+[(08/25/19) [6 Kyu] What's in a name?](./Python/190825/OnedayCoding.md)
+
 
 
 
