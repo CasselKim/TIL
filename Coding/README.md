@@ -1,14 +1,24 @@
 # Enhance coding skill
 
 #### practice with
-
-[Kaggle](https://www.kaggle.com/)
-
-[Codewars](https://www.codewars.com/)
-
-[Goorm-edu](https://edu.goorm.io/)
-
-Jupyter notebook
+  
+[Kaggle](https://www.kaggle.com/)  
+  
+[Codewars](https://www.codewars.com/)  
+  
+[Goorm-edu](https://edu.goorm.io/)  
+  
+[백준](https://www.acmicpc.net/)  
+  
+[SWEA](https://swexpertacademy.com/main/main.do)  
+  
+[정올](http://jungol.co.kr/)  
+  
+[Codeforces](https://codeforces.com/)  
+  
+[프로그래머스](https://programmers.co.kr/learn/challenges)  
+  
+Jupyter notebook & Jypyter lab
 
 
 
