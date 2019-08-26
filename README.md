@@ -148,9 +148,10 @@ The goal is to update this everyday... maybe
 - (08/23/2019) Coding Practice
 - (08/24/2019) Coding Practice
 - (08/25/2019) Coding Practice
+- (08/26/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-11시11분 - Wedding Song( Feat. 신소희 )
+WINNER - 고백하는거야

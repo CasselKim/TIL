@@ -1,23 +1,23 @@
 # Enhance coding skill
 
 #### practice with
-  
+
 [Kaggle](https://www.kaggle.com/)  
-  
+
 [Codewars](https://www.codewars.com/)  
-  
+
 [Goorm-edu](https://edu.goorm.io/)  
-  
+
 [백준](https://www.acmicpc.net/)  
-  
+
 [SWEA](https://swexpertacademy.com/main/main.do)  
-  
+
 [정올](http://jungol.co.kr/)  
-  
+
 [Codeforces](https://codeforces.com/)  
-  
+
 [프로그래머스](https://programmers.co.kr/learn/challenges)  
-  
+
 Jupyter notebook & Jypyter lab
 
 
@@ -128,6 +128,8 @@ Jupyter notebook & Jypyter lab
 [(08/24/19) [5 Kyu] Maximum subarray sum](./Python/190824/OnedayCoding.md)
 
 [(08/25/19) [6 Kyu] What's in a name?](./Python/190825/OnedayCoding.md)
+
+[(08/26/19) [4 Kyu] Snail](./Python/190826/OnedayCoding.md)
 
 
 
