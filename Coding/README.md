@@ -131,6 +131,7 @@ Jupyter notebook & Jypyter lab
 
 [(08/26/19) [4 Kyu] Snail](./Python/190826/OnedayCoding.md)
 
+[(08/27/19) [5 Kyu] Simple Pig Latin](./Python/190827/OnedayCoding.md)
 
 
 

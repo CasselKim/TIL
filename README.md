@@ -149,9 +149,9 @@ The goal is to update this everyday... maybe
 - (08/24/2019) Coding Practice
 - (08/25/2019) Coding Practice
 - (08/26/2019) Coding Practice
+- (08/27/2019) Coding Practice
 
 
 
 ## Now Listen  
 
-WINNER - 고백하는거야
