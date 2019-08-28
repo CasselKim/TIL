@@ -133,6 +133,12 @@ Jupyter notebook & Jypyter lab
 
 [(08/27/19) [5 Kyu] Simple Pig Latin](./Python/190827/OnedayCoding.md)
 
+[(08/28/19) [5 Kyu] Product of consecutive Fib numbers](./Python/190828/OnedayCoding.md)
+
+
+
+
+
 
 
 ## Java Log
