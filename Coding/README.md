@@ -135,7 +135,7 @@ Jupyter notebook & Jypyter lab
 
 [(08/28/19) [5 Kyu] Product of consecutive Fib numbers](./Python/190828/OnedayCoding.md)
 
-
+[(08/29/19) [6 Kyu] IQ Test](./Python/190829/OnedayCoding.md)
 
 
 
