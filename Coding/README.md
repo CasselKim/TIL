@@ -137,6 +137,8 @@ Jupyter notebook & Jypyter lab
 
 [(08/29/19) [6 Kyu] IQ Test](./Python/190829/OnedayCoding.md)
 
+[(08/30/19) [6 Kyu] Who likes it?](./Python/190830/OnedayCoding.md)
+
 
 
 
