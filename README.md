@@ -113,6 +113,10 @@ The goal is to update this everyday... maybe
 </div>  
 </details>
 
+<details>  
+<summary>August/2019</summary>  
+<div markdown="1">  
+
 
 - (08/01/2019) Coding Practice
 - (08/01/2019) Study After Effect
@@ -153,6 +157,9 @@ The goal is to update this everyday... maybe
 - (08/28/2019) Coding Practice
 - (08/29/2019) Coding Practice
 - (08/30/2019) Coding Practice
+
+</div>  
+</details>
 
 
 

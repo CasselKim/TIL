@@ -79,6 +79,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>August/2019</summary>  
+<div markdown="1">  
+
 [(08/01/19) [6 Kyu] Sum of Digits / Digital Root](./Python/190801/OnedayCoding.md)
 
 [(08/02/19) [5 Kyu] Moving Zeros To The End / Digital Root](./Python/190802/OnedayCoding.md)  
@@ -139,7 +143,10 @@ Jupyter notebook & Jypyter lab
 
 [(08/30/19) [6 Kyu] Who likes it?](./Python/190830/OnedayCoding.md)
 
+[(08/31/19) [6 Kyu] Bit Counting](./Python/190831/OnedayCoding.md)
 
+</div>  
+</details>  
 
 
 
