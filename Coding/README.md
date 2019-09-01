@@ -158,4 +158,6 @@ Jupyter notebook & Jypyter lab
 
 
 
-## C Log
+## C ++ Log  
+
+[(09/01/19) [8 Kyu] Multiply](./C++/190901/OnedayCoding.md)
