@@ -162,6 +162,7 @@ The goal is to update this everyday... maybe
 </details>
 
 * (09/01/2019) Coding Practice
+* (09/02/2019) Coding Practice
 
 ## Now Listen  
 

@@ -161,3 +161,5 @@ Jupyter notebook & Jypyter lab
 ## C ++ Log  
 
 [(09/01/19) [8 Kyu] Multiply](./C++/190901/OnedayCoding.md)
+
+[(09/02/19) [8 Kyu] Grasshopper - Messi goals function](./C++/190902/OnedayCoding.md)
