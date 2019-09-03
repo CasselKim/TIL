@@ -163,3 +163,6 @@ Jupyter notebook & Jypyter lab
 [(09/01/19) [8 Kyu] Multiply](./C++/190901/OnedayCoding.md)
 
 [(09/02/19) [8 Kyu] Grasshopper - Messi goals function](./C++/190902/OnedayCoding.md)
+
+[(09/03/19) [7 Kyu] Printer Errors](./C++/190903/OnedayCoding.md)
+
