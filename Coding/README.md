@@ -166,3 +166,5 @@ Jupyter notebook & Jypyter lab
 
 [(09/03/19) [7 Kyu] Printer Errors](./C++/190903/OnedayCoding.md)
 
+[(09/04/19) [7 Kyu] Sum of Cubes](./C++/190904/OnedayCoding.md)
+
