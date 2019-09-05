@@ -150,9 +150,9 @@ Jupyter notebook & Jypyter lab
 
 
 
-## Java Log
+## C Log  
 
-
+[(09/06/19) [8 Kyu] A Needle in the Haystack](./C/190906/OnedayCoding.md)
 
 
 
