@@ -168,3 +168,5 @@ Jupyter notebook & Jypyter lab
 
 [(09/04/19) [7 Kyu] Sum of Cubes](./C++/190904/OnedayCoding.md)
 
+[(09/05/19) [7 Kyu] Mumbling](./C++/190905/OnedayCoding.md)
+

@@ -165,6 +165,8 @@ The goal is to update this everyday... maybe
 * (09/02/2019) Coding Practice
 * (09/03/2019) Coding Practice
 * (09/04/2019) Coding Practice
+* (09/05/2019) Coding Practice
 
 ## Now Listen  
 
+폴킴 - 안녕
