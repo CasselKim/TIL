@@ -158,6 +158,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/07/19) [8 Kyu] Simple Fun #1: Seats in Theater](./C/190907/OnedayCoding.md)  
 
+[(09/08/19) [7 Kyu] Growth of a Population](./C/190908/OnedayCoding.md)  
+
 
 
 ## C ++ Log  

@@ -162,14 +162,29 @@ The goal is to update this everyday... maybe
 </details>
 
 * (09/01/2019) Coding Practice
+
 * (09/02/2019) Coding Practice
+
 * (09/03/2019) Coding Practice
+
 * (09/04/2019) Coding Practice
+
 * (09/05/2019) Coding Practice
+
 * (09/06/2019) Coding Practice
+
 * (09/06/2019) Start FaceFilter
+
 * (09/06/2019) Reorganize codingyahac -> AutoCustomizing
+
 * (09/07/2019) Pull request
+
 * (09/07/2019) Coding Practice
 
+* (09/08/2019) Coding Practice  
+
+  
+
 ## Now Listen  
+
+임재현 - 내가 나빴어 (Prod. 2soo)
