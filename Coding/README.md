@@ -160,6 +160,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/08/19) [7 Kyu] Growth of a Population](./C/190908/OnedayCoding.md)  
 
+[(09/09/19) [8 Kyu] String repeat](./C/190909/OnedayCoding.md)  
+
 
 
 ## C ++ Log  

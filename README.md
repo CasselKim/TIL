@@ -183,8 +183,9 @@ The goal is to update this everyday... maybe
 
 * (09/08/2019) Coding Practice  
 
+* (09/09/2019) Coding Practice  
+
   
 
 ## Now Listen  
 
-임재현 - 내가 나빴어 (Prod. 2soo)
