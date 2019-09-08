@@ -156,7 +156,7 @@ Jupyter notebook & Jypyter lab
 
 [(09/06/19) [8 Kyu] Even or Odd](./C/190906-2/OnedayCoding.md)  
 
-
+[(09/07/19) [8 Kyu] Simple Fun #1: Seats in Theater](./C/190907/OnedayCoding.md)  
 
 
 

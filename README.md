@@ -169,7 +169,7 @@ The goal is to update this everyday... maybe
 * (09/06/2019) Coding Practice
 * (09/06/2019) Start FaceFilter
 * (09/06/2019) Reorganize codingyahac -> AutoCustomizing
+* (09/07/2019) Pull request
+* (09/07/2019) Coding Practice
 
 ## Now Listen  
-
-Hartebees - Summer Go
