@@ -162,6 +162,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/09/19) [8 Kyu] String repeat](./C/190909/OnedayCoding.md)  
 
+[(09/10/19) [8 Kyu] Difference of Volumes of Cuboids](./C/190910/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
