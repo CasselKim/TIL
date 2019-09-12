@@ -82,7 +82,6 @@ Jupyter notebook & Jypyter lab
 <details>  
 <summary>August/2019</summary>  
 <div markdown="1">  
-
 [(08/01/19) [6 Kyu] Sum of Digits / Digital Root](./Python/190801/OnedayCoding.md)
 
 [(08/02/19) [5 Kyu] Moving Zeros To The End / Digital Root](./Python/190802/OnedayCoding.md)  
@@ -166,7 +165,7 @@ Jupyter notebook & Jypyter lab
 
 [(09/11/19) [7 Kyu] Sum of odd numbers](./C/190911/OnedayCoding.md)  
 
-
+[(09/12/19) [7 Kyu] Speed Control](./C/190912/OnedayCoding.md)
 
 ## C ++ Log  
 
