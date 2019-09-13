@@ -191,6 +191,8 @@ The goal is to update this everyday... maybe
 
 * (09/12/2019) Coding Practice  
 
+* (09/13/2019) Make CS231n Document
+
   
 
 ## Now Listen  
