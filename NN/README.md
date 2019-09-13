@@ -24,7 +24,7 @@
 
 ## Documented Study Log
 
-
+[CS231n - Notion](https://www.notion.so/casselkim/CS231n-6028b4b80bd44945bf2f5cd1547d7c99)
 
 
 
