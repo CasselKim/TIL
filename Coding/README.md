@@ -165,7 +165,13 @@ Jupyter notebook & Jypyter lab
 
 [(09/11/19) [7 Kyu] Sum of odd numbers](./C/190911/OnedayCoding.md)  
 
-[(09/12/19) [7 Kyu] Speed Control](./C/190912/OnedayCoding.md)
+[(09/12/19) [7 Kyu] Speed Control](./C/190912/OnedayCoding.md)  
+
+[(09/13/19) [7 Kyu] Vowel Count](./C/190913/OnedayCoding.md)  
+
+
+
+
 
 ## C ++ Log  
 
