@@ -169,7 +169,7 @@ Jupyter notebook & Jypyter lab
 
 [(09/13/19) [7 Kyu] Vowel Count](./C/190913/OnedayCoding.md)  
 
-
+[(09/14/19) [7 Kyu] Shortest Word](./C/190914/OnedayCoding.md)  
 
 
 
