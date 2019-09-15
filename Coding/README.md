@@ -171,6 +171,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/14/19) [7 Kyu] Shortest Word](./C/190914/OnedayCoding.md)  
 
+[(09/15/19) [7 Kyu] Exes and Ohs](./C/190915/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
