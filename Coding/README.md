@@ -173,6 +173,10 @@ Jupyter notebook & Jypyter lab
 
 [(09/15/19) [7 Kyu] Exes and Ohs](./C/190915/OnedayCoding.md)  
 
+[(09/16/19) [7 Kyu] Folding your way to the moon](./C/190916/OnedayCoding.md)
+
+
+
 
 
 ## C ++ Log  
