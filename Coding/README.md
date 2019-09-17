@@ -175,7 +175,7 @@ Jupyter notebook & Jypyter lab
 
 [(09/16/19) [7 Kyu] Folding your way to the moon](./C/190916/OnedayCoding.md)
 
-
+[(09/17/19) [8 Kyu] Incorrect division method](./C/190917/OnedayCoding.md)
 
 
 

@@ -201,7 +201,12 @@ The goal is to update this everyday... maybe
 
 * (09/16/2019) Coding Practice  
 
+* (09/17/2019) Coding Practice  
+
+* (09/17/2019) Algorithm Practice  
+
   
 
 ## Now Listen  
 
+Cosmic Boy - 동서남북(Feat. 최엘비, OLNL, Kid Milli, 기리보이, 한요한)
