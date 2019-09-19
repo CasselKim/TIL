@@ -205,6 +205,10 @@ The goal is to update this everyday... maybe
 
 * (09/17/2019) Algorithm Practice  
 
+* (09/18/2019) Coding Practice  
+
+* (09/19/2019) Coding Practice  
+
   
 
 ## Now Listen  

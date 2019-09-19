@@ -177,6 +177,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/17/19) [8 Kyu] Incorrect division method](./C/190917/OnedayCoding.md)
 
+[(09/18/19) [8 Kyu] Expressions Matter](./C/190918/OnedayCoding.md)
+
 
 
 ## C ++ Log  
