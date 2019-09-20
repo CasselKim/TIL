@@ -179,6 +179,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/18/19) [8 Kyu] Expressions Matter](./C/190918/OnedayCoding.md)
 
+[(09/19/19) [7 Kyu] Alphabetical Addition](./C/190919/OnedayCoding.md)   
+
 
 
 ## C ++ Log  
