@@ -147,6 +147,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+[(09/22/19) [6 Kyu] Tank Truck](./Python/190922/OnedayCoding.md)  
+
+[(09/24/19) [6 Kyu] Replace With Alphabet Position](./Python/190924/OnedayCoding.md)  
+
 
 
 ## C Log  
