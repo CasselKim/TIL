@@ -193,7 +193,7 @@ Jupyter notebook & Jypyter lab
 
 [(09/25/19) [8 Kyu] L1: Set Alarm](./C/190925/OnedayCoding.md)   
 
-
+[(09/26/19) [7 Kyu] Spacify](./C/190926/OnedayCoding.md)   
 
 
 
