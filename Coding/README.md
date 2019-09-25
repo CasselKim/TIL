@@ -183,13 +183,17 @@ Jupyter notebook & Jypyter lab
 
 [(09/18/19) [8 Kyu] Expressions Matter](./C/190918/OnedayCoding.md)
 
-[(09/19/19) [7 Kyu] Alphabetical Addition](./C/190919/OnedayCoding.md)   
+[(09/19/19) [8 Kyu] Expressions Matter](./C/190919/OnedayCoding.md)   
 
 [(09/20/19) [7 Kyu] Alphabetical Addition](./C/190920/OnedayCoding.md)   
 
 [(09/21/19) [7 Kyu] Odder Than the Rest](./C/190921/OnedayCoding.md)   
 
 [(09/23/19) [8 Kyu] Count the Monkeys!](./C/190923/OnedayCoding.md)   
+
+[(09/25/19) [8 Kyu] L1: Set Alarm](./C/190925/OnedayCoding.md)   
+
+
 
 
 
