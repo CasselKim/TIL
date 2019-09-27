@@ -195,6 +195,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/26/19) [7 Kyu] Spacify](./C/190926/OnedayCoding.md)   
 
+[(09/27/19) [6 Kyu] Find the missing term in an Arithmetic Progression](./C/190927/OnedayCoding.md)   
+
 
 
 ## C ++ Log  
