@@ -197,6 +197,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/27/19) [6 Kyu] Find the missing term in an Arithmetic Progression](./C/190927/OnedayCoding.md)   
 
+[(09/28/19) [7 Kyu] You're a square!](./C/190928/OnedayCoding.md)   
+
 
 
 ## C ++ Log  

@@ -225,8 +225,9 @@ The goal is to update this everyday... maybe
 
 * (09/27/2019) Coding Practice  
 
+* (09/28/2019) Coding Practice  
+
   
 
 ## Now Listen  
 
-10cm - 나의 어깨에 기대어요
