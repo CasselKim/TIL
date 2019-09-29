@@ -199,6 +199,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/28/19) [7 Kyu] You're a square!](./C/190928/OnedayCoding.md)   
 
+[(09/29/19) [7 Kyu] Disemvowel Trolls](./C/190929/OnedayCoding.md)
+
 
 
 ## C ++ Log  
