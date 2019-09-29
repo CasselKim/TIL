@@ -231,7 +231,11 @@ The goal is to update this everyday... maybe
 
 * (09/29/2019) Finish AMT Project  
 
+* (09/29/2019) Reorganize DEVGRU  
+
+* (09/30/2019) Coding Practice  
+
   
 
 ## Now Listen  
-문제(Feat.쿠기(Coogie)) - Big Naughty(서동현)
+ICY - ITZY(있지)
