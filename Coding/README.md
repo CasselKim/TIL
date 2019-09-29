@@ -151,6 +151,8 @@ Jupyter notebook & Jypyter lab
 
 [(09/24/19) [6 Kyu] Replace With Alphabet Position](./Python/190924/OnedayCoding.md)  
 
+[(09/30/19) [5 Kyu] The Road-Kill Detective](./Python/190930/OnedayCoding.md)  
+
 
 
 ## C Log  
