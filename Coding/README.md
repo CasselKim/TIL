@@ -148,15 +148,26 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>September/2019</summary>  
+<div markdown="1">  
+
 [(09/22/19) [6 Kyu] Tank Truck](./Python/190922/OnedayCoding.md)  
 
 [(09/24/19) [6 Kyu] Replace With Alphabet Position](./Python/190924/OnedayCoding.md)  
 
 [(09/30/19) [5 Kyu] The Road-Kill Detective](./Python/190930/OnedayCoding.md)  
 
+</div>  
+</details>  
+
 
 
 ## C Log  
+
+<details>  
+<summary>September/2019</summary>  
+<div markdown="1">  
 
 [(09/06/19) [8 Kyu] A Needle in the Haystack](./C/190906/OnedayCoding.md)  
 
@@ -202,11 +213,20 @@ Jupyter notebook & Jypyter lab
 
 [(09/28/19) [7 Kyu] You're a square!](./C/190928/OnedayCoding.md)   
 
-[(09/29/19) [7 Kyu] Disemvowel Trolls](./C/190929/OnedayCoding.md)
+[(09/29/19) [7 Kyu] Disemvowel Trolls](./C/190929/OnedayCoding.md)  
+
+</div>  
+</details>  
+
+[(10/01/19) [7 Kyu] Isograms](./C/191001/OnedayCoding.md)
 
 
 
 ## C ++ Log  
+
+<details>  
+<summary>September/2019</summary>  
+<div markdown="1">  
 
 [(09/01/19) [8 Kyu] Multiply](./C++/190901/OnedayCoding.md)
 
@@ -217,4 +237,7 @@ Jupyter notebook & Jypyter lab
 [(09/04/19) [7 Kyu] Sum of Cubes](./C++/190904/OnedayCoding.md)
 
 [(09/05/19) [7 Kyu] Mumbling](./C++/190905/OnedayCoding.md)
+
+</div>  
+</details>  
 

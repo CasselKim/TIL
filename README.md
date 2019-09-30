@@ -159,83 +159,54 @@ The goal is to update this everyday... maybe
 - (08/30/2019) Coding Practice
 
 </div>  
-</details>
+</details>  
+
+<details>  
+<summary>September/2019</summary>  
+<div markdown="1">  
 
 * (09/01/2019) Coding Practice
-
 * (09/02/2019) Coding Practice
-
 * (09/03/2019) Coding Practice
-
 * (09/04/2019) Coding Practice
-
 * (09/05/2019) Coding Practice
-
 * (09/06/2019) Coding Practice
-
 * (09/06/2019) Start FaceFilter
-
 * (09/06/2019) Reorganize codingyahac -> AutoCustomizing
-
 * (09/07/2019) Pull request
-
 * (09/07/2019) Coding Practice
-
 * (09/08/2019) Coding Practice  
-
 * (09/09/2019) Coding Practice  
-
 * (09/10/2019) Coding Practice  
-
 * (09/11/2019) Coding Practice  
-
 * (09/12/2019) Coding Practice  
-
 * (09/13/2019) Make CS231n Document
-
 * (09/13/2019) Coding Practice  
-
 * (09/14/2019) Coding Practice  
-
 * (09/15/2019) Coding Practice  
-
 * (09/16/2019) Coding Practice  
-
 * (09/17/2019) Coding Practice  
-
 * (09/17/2019) Algorithm Practice  
-
 * (09/18/2019) Coding Practice  
-
 * (09/19/2019) Coding Practice  
-
 * (09/20/2019) Coding Practice  
-
 * (09/21/2019) Coding Practice  
-
 * (09/22/2019) Coding Practice  
-
 * (09/23/2019) Coding Practice  
-
 * (09/24/2019) Coding Practice  
-
 * (09/25/2019) Coding Practice  
-
 * (09/26/2019) Coding Practice  
-
 * (09/27/2019) Coding Practice  
-
 * (09/28/2019) Coding Practice  
-
 * (09/29/2019) Coding Practice  
-
 * (09/29/2019) Finish AMT Project  
-
 * (09/29/2019) Reorganize DEVGRU  
-
 * (09/30/2019) Coding Practice  
 
-  
+</div>  
+</details>   
+
+(10/01/2019) Coding Practice  
 
 ## Now Listen  
-ICY - ITZY(있지)
+Jay park - ON IT
