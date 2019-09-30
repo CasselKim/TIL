@@ -26,7 +26,9 @@
 
 [CS231n - Notion](https://www.notion.so/casselkim/CS231n-6028b4b80bd44945bf2f5cd1547d7c99)
 
+[H.AI Study - Random Forest & SVM](H.AI/RandomForest.pptx)
 
+[H.AI Study - Softmax](H.AI/Softmax.pptx)  
 
 
 

@@ -206,7 +206,8 @@ The goal is to update this everyday... maybe
 </div>  
 </details>   
 
-(10/01/2019) Coding Practice  
+* (10/01/2019) Coding Practice 
+* (10/01/2019) H.AI Study  
 
 ## Now Listen  
 Jay park - ON IT
