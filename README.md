@@ -208,6 +208,7 @@ The goal is to update this everyday... maybe
 
 * (10/01/2019) Coding Practice 
 * (10/01/2019) H.AI Study  
+* (10/02/2019) Coding Practice  
 
 ## Now Listen  
 Jay park - ON IT
