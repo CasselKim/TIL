@@ -222,6 +222,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/02/19) [8 Kyu] Third Angle of a Triangle](./C/191002/OnedayCoding.md)  
 
+[(10/03/19) [7 Kyu] TV Remote](./C/191003/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
