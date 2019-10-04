@@ -224,6 +224,10 @@ Jupyter notebook & Jypyter lab
 
 [(10/03/19) [7 Kyu] TV Remote](./C/191003/OnedayCoding.md)  
 
+[(10/04/19) [7 Kyu] Stacked Balls - 3D (triangle base)](./C/191004/OnedayCoding.md)  
+
+[(10/05/19) [7 Kyu] STRONGN Strong Number (Special Numbers Series #2)](./C/191005/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
