@@ -67,10 +67,13 @@ static void complete_test()
 ## My solution
 
 ```c
+#include <math.h>
+
 double stack_height_3d(int layers)
 {
-    // Your code here!
-    return 0.0;
+    printf("%d",layers);
+    int margin = (layers-1);
+    return layers? margin*sqrt(2.0/3.0)+1.0 : 0;
 }
 ```
 
@@ -94,8 +97,10 @@ Time:
 
 ## Best Solution
 
-```python
-
+```c
+double stack_height_3d(int layers) {
+    return layers > 0 ? 1+--layers*0.81649 : 0;
+}
 ```
 
 
