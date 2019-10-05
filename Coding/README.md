@@ -228,6 +228,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/05/19) [7 Kyu] STRONGN Strong Number (Special Numbers Series #2)](./C/191005/OnedayCoding.md)  
 
+[(10/06/19) [6 Kyu] Photocopy decay](./C/191006/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
