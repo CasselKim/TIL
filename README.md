@@ -18,7 +18,7 @@ The goal is to update this everyday... maybe
 
 * [After Effect Outcome](https://www.youtube.com/watch?v=2WhzsvoYrRw)
 
-* [DataStructure](Datastructure/README.md)  
+* [DataStructure](DataStructure/README.md)  
 
   
 
