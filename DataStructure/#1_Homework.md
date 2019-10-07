@@ -20,7 +20,7 @@ Implement the following problems by C programming and upload only the source cod
 
    [#1 Homework - ADT Stack made of array.h](Stack.h)  
 
-   [#1 Homework - ADT Stack made of LinkedList.c ](LinkedStack.c)  
+   [#1 Homework - ADT Stack made of LinkedList.c ](NewLinkedStack.c)  
 
    [#1 Homework - ADT Stack made of LinkedList.h](LinkedListStack.h)  
 
@@ -29,9 +29,15 @@ Implement the following problems by C programming and upload only the source cod
 
 2. Reversing data. Print out the input data as its reversing order.  
 
+   [#2 Homework - Reversing input data.c](Reverse.c)  
+
 　    
 
 3. Convert decimal to binary. If you get a positive integer as input, you should print out its binary number.   
+
+   <img src="hw1-3.png" alt="image" style="zoom:60%;" />  
+   
+   [#3 Homework - Convert decimal to binary.c](Binary.c)  
 
 　     
 

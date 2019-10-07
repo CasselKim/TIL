@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 #include <stdbool.h>
-#include "Stack.h"
+#include "LinkedListStack.h"
 
 int main()
 {
     int i = 0;
     int item = 0;
-    Stack *H = CreateStack(100);
+    HEAD *H = CreateStack(100);
     printf("Input 10 numbers :");
     for(i = 0; i < 10; i++){
         item = 0;
