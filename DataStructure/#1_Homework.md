@@ -12,25 +12,25 @@ Implement the following problems by C programming and upload only the source cod
 
 1. Implement the following ADT stack using **array** and **linked list**; you should **implement both of them**. You should **utilize them at the next problems**. 
 
-.  
+`  
 
 2. 다음의 ADT를 만족하는 stack을 **array와 linked list 두 가지 버전**으로 구현하시오. 이 구현한 부분을 이후 문제에서는 활용할 것.
 
-![image](https://user-images.githubusercontent.com/48755377/66322819-ae7a6d00-e95d-11e9-920c-ce6d05e354b0.png)  
+   ![image](https://user-images.githubusercontent.com/48755377/66322819-ae7a6d00-e95d-11e9-920c-ce6d05e354b0.png)  
 
-[#1 Homework - ADT Stack made of array.c ](StackADT.c)  
+   [#1 Homework - ADT Stack made of array.c ](StackADT.c)  
 
-[#1 Homework - ADT Stack made of array.h](Stack.h)  
+   [#1 Homework - ADT Stack made of array.h](Stack.h)  
 
-[#1 Homework - ADT Stack made of LinkedList.c ](LinkedStack.c)  
+   [#1 Homework - ADT Stack made of LinkedList.c ](LinkedStack.c)  
 
-[#1 Homework - ADT Stack made of LinkedList.h](LinkedListStack.h)  
+   [#1 Homework - ADT Stack made of LinkedList.h](LinkedListStack.h)  
 
-  .  
+　    
 
 3. Reversing data. Print out the input data as its reversing order.  
 
-.    
+　    
 
 4. Convert decimal to binary. If you get a positive integer as input, you should print out its binary number.   
 
