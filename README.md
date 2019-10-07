@@ -18,6 +18,8 @@ The goal is to update this everyday... maybe
 
 * [After Effect Outcome](https://www.youtube.com/watch?v=2WhzsvoYrRw)
 
+* [DataStructure](Datastructure/README.md)  
+
   
 
 
@@ -213,7 +215,11 @@ The goal is to update this everyday... maybe
 * (10/04/2019) Coding Practice  
 * (10/05/2019) Coding Practice  
 * (10/06/2019) Coding Practice  
+* (10/07/2019) Create DataStructure folder
+* (10/07/2019) DataStructure practice
 
 
 
 ## Now Listen  
+
+담아 (Feat. 염따 YUMDDA, pH-1)(Prod. BOYCOLD) - 스윙스, 키드밀리, 매드클라운
