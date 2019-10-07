@@ -3,10 +3,10 @@
 ### Introduction
 
 Implement the following problems by C programming and upload only the source code files (such as xxx.c and xxx.h) as a zip file compressed to the homework board at abeek.knu.ac.kr. In order to prepare the mid exam, you had better implement the C programs for yourself without copying others’ programs. If your copying is detected, you will get a point taken off.  
-
+  
 다음을 C 프로그램으로 구현해서 소스(xxx.c 과 xxx.h 파일)만 zip으로 묶어서 abeek 숙제게시판에 올릴 것. 중간고사 준비를 위해서 모든 프로그램은 직접 짜보아야 하고, 카피한 것이 발각되면 감점 있습니다.  
-
-
+  
+  
 
 ### Contents
 
@@ -20,19 +20,19 @@ Implement the following problems by C programming and upload only the source cod
 
    [#1 Homework - ADT Stack made of array.h](Stack.h)  
 
+  
+  
+2.  Reversing data. Print out the input data as its reversing order.  
 
+  
 
-2.  Reversing data. Print out the input data as its reversing order.
+3.  Convert decimal to binary. If you get a positive integer as input, you should print out its binary number.   
 
+   
+  
+4.  괄호를 포함하는 4칙 연산(+, -, *, /)이 가능한 Calculator. 다음을 포함해야 함.    
 
-
-3.  Convert decimal to binary. If you get a positive integer as input, you should print out its binary number.  
-
- 
-
-4.  괄호를 포함하는 4칙 연산(+, -, *, /)이 가능한 Calculator. 다음을 포함해야 함.  
-
-4. Implement a calculator which can add, subtract, multiply and divide (+, -, *, /). But, your program should meet the following requirements.
+4. Implement a calculator which can add, subtract, multiply and divide (+, -, *, /). But, your program should meet the following requirements.  
 
    *  수식을 통으로 받아서 token으로 분석 (빈칸으로 구분이 안되는 붙은 식도 분석 가능해야 함. C에서 제공하는 token 분석하는 함수도 있음.) 빈칸도 있을 수 있고, 괄호도 있을 수 있고, 두 자리 이상의 수도 처리가능해야 함.
 
