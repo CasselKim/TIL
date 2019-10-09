@@ -46,16 +46,13 @@ Implement the following problems by C programming and upload only the source cod
    Implement a calculator which can add, subtract, multiply and divide (+, -, *, /). But, your program should meet the following requirements.  
 
    * 수식을 통으로 받아서 token으로 분석 (빈칸으로 구분이 안되는 붙은 식도 분석 가능해야 함. C에서 제공하는 token 분석하는 함수도 있음.) 빈칸도 있을 수 있고, 괄호도 있을 수 있고, 두 자리 이상의 수도 처리가능해야 함.
-
-   * Your program should analyze an expression given by token. The expressions will contain space, ‘(‘, and ‘)’ as well as double or three figures. Maybe, there is no space at the expression fiven. You can utilize the token analyzer functions in C language.
-
+* Your program should analyze an expression given by token. The expressions will contain space, ‘(‘, and ‘)’ as well as double or three figures. Maybe, there is no space at the expression fiven. You can utilize the token analyzer functions in C language.
    * Infix notation è postfix 로 변환
-
-   * Your program should change infix notation (the expression given) to postfix notation.
-
+* Your program should change infix notation (the expression given) to postfix notation.
    * 수식의 유효성 검사. 예를 들면, 괄호를 열기만 하고 닫지 않았다던지 하는부분 및 이항연산식을 표현한 건지 등.
-
-   * Your program should check the validity of the expression given. For example, the pair of ( ), whether the expression can be calculated or not.
+* Your program should check the validity of the expression given. For example, the pair of ( ), whether the expression can be calculated or not.
+   
+[#4 Homework - Calculator.c](Calculator.c)  
 
 
 

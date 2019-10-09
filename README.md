@@ -216,10 +216,9 @@ The goal is to update this everyday... maybe
 * (10/05/2019) Coding Practice  
 * (10/06/2019) Coding Practice  
 * (10/07/2019) Create DataStructure folder
-* (10/07/2019) DataStructure practice
+* (10/08/2019) DataStructure practice
+* (10/08/2019) DataStructure practice
 
 
 
 ## Now Listen  
-
-담아 (Feat. 염따 YUMDDA, pH-1)(Prod. BOYCOLD) - 스윙스, 키드밀리, 매드클라운
