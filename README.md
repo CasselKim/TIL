@@ -218,7 +218,11 @@ The goal is to update this everyday... maybe
 * (10/07/2019) Create DataStructure folder
 * (10/08/2019) DataStructure practice
 * (10/08/2019) DataStructure practice
+* (10/09/2019) DataStructure practice
+* (10/10/2019) DataStructure practice
+* (10/10/2019) Coding practice
 
 
 
 ## Now Listen  
+

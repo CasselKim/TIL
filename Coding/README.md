@@ -161,6 +161,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+[(10/02/19) [6 Kyu] IntroToArt](./Python/191002/OnedayCoding.md)  
+
+[(10/10/19) [6 Kyu] Pyramid Array](./Python/191010/OnedayCoding.md)  
+
 
 
 ## C Log  
