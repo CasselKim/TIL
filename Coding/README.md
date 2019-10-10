@@ -165,6 +165,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/10/19) [6 Kyu] Pyramid Array](./Python/191010/OnedayCoding.md)  
 
+[(10/11/19) [6 Kyu] Count letters in string](./Python/191011/OnedayCoding.md)  
+
 
 
 ## C Log  
