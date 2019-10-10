@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
-#include <math.h>
-#include "LinkedListStack.h"
+#include "Stack.h"
 
 typedef struct {
     int number;
@@ -27,10 +26,23 @@ bool isOperator(char c)
     else return false;
 }
 
+double calculate(double b, double a, char operator)
+{
+    switch(operator)
+    {
+        case '+' : return b+a;
+        case '-' : return b-a;
+        case '*' : return b*a;
+        case '/' : return b/a;
+        default : return -1;
+    }
+}
+
 
 int main()
 {
-    HEAD *H = CreateStack(1000);
+    HEAD *operands = CreateStack(100);
+    HEAD *operators = CreateStack(100);
     char input[100];
 
     int i=0;
@@ -41,20 +53,28 @@ int main()
     for(int j=0; j<strlen(input);j++) { (tokend+j) -> number = 0; (tokend+j) -> type = 0; }
     
     bool end=false;
-    
+    bool No_Operator = false;
+    bool No_Number = false;
+    int isOpened = 0;
     for(char *p = input; *p; p++)
     {
         if(*p==' ') continue;
 
         else if(isBracket(*p)){
+            if(No_Operator) { printf("Wrong operator input\n"); return -1; }
+            if(No_Number) { printf("Wrong number input\n"); return -1; }
             if(i) i+=1;
             (tokend+i)->bracket = *p;
             (tokend+i)->type=3;
-    
+            
             end = true;
+            
+            if (*p=='(') isOpened++;
+            else isOpened--;
         }
 
         else if(isOperator(*p)){
+            if(No_Number) { printf("Wrong number input\n"); return -1; }
             i+=1;
             (tokend+i)->operator = *p;
             
@@ -66,59 +86,51 @@ int main()
                 case '/' : (tokend+i)->type=22; break;
                 default : (tokend+i)->type=0; break;
             }
-            
             end = true;
-            
+            No_Operator = false;
+            No_Number = true;
         }
 
         else {
             if(end) { i+=1; end = false; }
             (tokend+i)->number = (tokend+i)->number*10 + (int)(*p) - 48;
             (tokend+i)->type = 1;
+            No_Operator = true;
+            No_Number = false;
         }
-
+        
+        if(isOpened<0) { printf("Wrong bracket input\n"); return -1; }
     }
-
-    i=-1;
+    if(isOpened) { printf("Wrong bracket input\n"); return -1; }
+    
     for(token *t = tokend ; t->type ; t++){
-        if( t->type == 1 ) { (++i+tokend)->number = t->number; (i+tokend)->type = 1; }
-        else if( t->bracket == '(') Push(H,'(');
+        if( t->type == 1 ) Push(operands,t->number);
+        else if( t->bracket == '(') Push(operators,'(');
         else if( t->bracket == ')')
         {
-            while(!IsEmptyStack(H) && Top(H) != '('){
-                if (Top(H)==')') { (++i+tokend)->bracket = Pop(H); (i+tokend)->type = 3; }
-                else { (++i+t)->operator = Pop(H); (i+tokend)->type = 2; }
+            while(!IsEmptyStack(operators) && Top(operators) != '('){
+                if (Top(operators)==')') Pop(operators);
+                else Push( operands, calculate(Pop(operands),Pop(operands),Pop(operators)) );
             }
-            if(!IsEmptyStack(H) && Top(H) != '(') return -1;
-            else Pop(H);
+            if(!IsEmptyStack(operators) && Top(operators) != '(') return -1;
+            else Pop(operators);
         } 
         else
         {
-            while(!IsEmptyStack(H) && t->type <= ((Top(H)=='+' || Top(H)=='-')?21:22))
-                { (++i+tokend)->operator = Pop(H); (i+tokend)->type = 2; printf("Debugging...1 : t->type : %d\n",t->type);}
-            Push(H,t->operator);
+            while(!IsEmptyStack(operators) && t->type <= ((Top(operators)=='+' || Top(operators)=='-')?21:22) && Top(operators) != '(')
+                Push( operands, calculate(Pop(operands),Pop(operands),Pop(operators)) );
+            Push(operators,t->operator);
         }
     }
         
-    while(!IsEmptyStack(H)) { 
-        (++i+tokend)->operator = Pop(H);
-         (i+tokend)->type = 2;
-          printf("Debugging...2 : %c\n",(i+tokend)->operator);}
-
-    printf("\n\n");
-    for(token *o=tokend ; o->type ; o=o+1){
-        //printf("%d,%c,%c,%d\n",o->number,o->bracket,o->operator,o->type);
-        switch(o->type){
-            case 1 : printf("%d ",o->number); break;
-            case 2 : 
-            case 21 : 
-            case 22 : printf("%c ",o->operator); break;
-            case 3 : printf("%c ",o->bracket); break;
-        }
+    while(!IsEmptyStack(operators)) { 
+        Push( operands, calculate(Pop(operands),Pop(operands),Pop(operators)) );
     }
-
+    
+    printf("Result : %d",Pop(operands));
     free(tokend);
-    DestroyStack(H);
+    DestroyStack(operands);
+    DestroyStack(operators);
     
     return 0;
 }
