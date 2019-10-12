@@ -167,6 +167,10 @@ Jupyter notebook & Jypyter lab
 
 [(10/11/19) [6 Kyu] Count letters in string](./Python/191011/OnedayCoding.md)  
 
+[(10/12/19) [6 Kyu] Binaries](./Python/191012/OnedayCoding.md)  
+
+
+
 
 
 ## C Log  
