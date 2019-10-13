@@ -75,7 +75,7 @@ Jupyter notebook & Jypyter lab
 
 [(07/30/19) [6 Kyu] Multiples of 3 or 5](./Python/190730/OnedayCoding.md)
 
-[(07/31/19) [6 Kyu] Find The Parity Outlier](./Python/190731/OnedayCoding.md)
+[(07/31/19) [6 Kyu] Find The ParityOutlier](./Python/190731/OnedayCoding.md)
 </div>  
 </details>  
 
