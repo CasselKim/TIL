@@ -223,6 +223,8 @@ The goal is to update this everyday... maybe
 * (10/10/2019) Coding practice
 * (10/11/2019) Coding practice
 * (10/12/2019) Coding practice
+* (10/13/2019) Coding practice
+* (10/14/2019) Coding practice
 
 
 

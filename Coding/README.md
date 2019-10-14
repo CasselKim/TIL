@@ -169,6 +169,12 @@ Jupyter notebook & Jypyter lab
 
 [(10/12/19) [6 Kyu] Binaries](./Python/191012/OnedayCoding.md)  
 
+[(10/13/19) [7 Kyu] V A P O R C O D E](./Python/191013/OnedayCoding.md)  
+
+[(10/14/19) [7 Kyu] Sort the Gift Code](./Python/191014/OnedayCoding.md)  
+
+
+
 
 
 
