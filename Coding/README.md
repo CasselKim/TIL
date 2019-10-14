@@ -173,7 +173,7 @@ Jupyter notebook & Jypyter lab
 
 [(10/14/19) [7 Kyu] Sort the Gift Code](./Python/191014/OnedayCoding.md)  
 
-
+[(10/15/19) [7 Kyu] Basic Math (Add or Subtract)](./Python/191015/OnedayCoding.md)  
 
 
 
