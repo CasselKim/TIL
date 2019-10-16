@@ -226,7 +226,7 @@ The goal is to update this everyday... maybe
 * (10/13/2019) Coding practice
 * (10/14/2019) Coding practice
 * (10/15/2019) Coding practice
-
+* (10/16/2019) Coding practice
 
 
 ## Now Listen  
