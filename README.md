@@ -209,24 +209,48 @@ The goal is to update this everyday... maybe
 </details>   
 
 * (10/01/2019) Coding Practice 
+
 * (10/01/2019) H.AI Study  
+
 * (10/02/2019) Coding Practice  
+
 * (10/03/2019) Coding Practice  
+
 * (10/04/2019) Coding Practice  
+
 * (10/05/2019) Coding Practice  
+
 * (10/06/2019) Coding Practice  
+
 * (10/07/2019) Create DataStructure folder
+
 * (10/08/2019) DataStructure practice
+
 * (10/08/2019) DataStructure practice
+
 * (10/09/2019) DataStructure practice
+
 * (10/10/2019) DataStructure practice
+
 * (10/10/2019) Coding practice
+
 * (10/11/2019) Coding practice
+
 * (10/12/2019) Coding practice
+
 * (10/13/2019) Coding practice
+
 * (10/14/2019) Coding practice
+
 * (10/15/2019) Coding practice
+
 * (10/16/2019) Coding practice
+
+* (10/17/2019) DataStructure practice
+
+* (10/18/2019) DataStructure practice
+
+  
 
 
 ## Now Listen  
