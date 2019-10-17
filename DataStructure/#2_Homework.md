@@ -13,9 +13,9 @@ a Zip File Attached : StudentID_Name.zip
 1. queue를 array와 linked list 두 가지 버전으로 구현하시오. 이 구현한 부분을 이후 문제에서는 활용할 것.
 Implement two versions of queue using array and linked list; you should implement both of them. You should utilize them at the next problems. 
    
-[#1 Homework - ArrayQueue.h](ArrayQueue.h)  
+  [#1 Homework - ArrayQueue.h](ArrayQueue.h)  
    
-[#1 Homework - LinkedQueue.h](LinkedQueue.h)  
+  [#1 Homework - LinkedQueue.h](LinkedQueue.h)  
 
 
 　    
