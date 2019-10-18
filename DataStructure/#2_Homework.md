@@ -11,7 +11,7 @@ a Zip File Attached : StudentID_Name.zip
 ### Contents
 
 1. queue를 array와 linked list 두 가지 버전으로 구현하시오. 이 구현한 부분을 이후 문제에서는 활용할 것.
-Implement two versions of queue using array and linked list; you should implement both of them. You should utilize them at the next problems.
+Implement two versions of queue using array and linked list; you should implement both of them. You should utilize them at the next problems.  
    
     [#1 Homework - ArrayQueue.h](ArrayQueue.h)  
    
@@ -27,16 +27,16 @@ Implement a service at a bank utilizing the two versions of queue implemented. Y
    
    굵은글씨는 프로그램에서 출력되는 부분, 얇은 글씨는 외부 입력  
    Bold type letters are displayed. Non-bold type letters are input.  
-     
+   
    　
-     
+   
    실행 예) Execution Example)  
-     
+   
    **In (0), out (1), exit (2) :** 0  
    **Customer :** Gildong Hong  
    **The current status of Queue : (Gildong Hong1)**  
    **In (0), out (1), exit (2) :** 0  
-     
+   
    **Customer :** Gildong Kim  
    **The current status of Queue : (Gildong Hong1, Gildong Kim2)**  
    **In (0), out (1), exit (2) :** 1  
@@ -50,3 +50,5 @@ Implement a service at a bank utilizing the two versions of queue implemented. Y
    
    
    [#2 Homework - Bank.c](Bank.c)  
+   
+   [#2 Homework - BankQueue.h](BankQueue.h)  
