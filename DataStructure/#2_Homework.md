@@ -36,7 +36,6 @@ Implement a service at a bank utilizing the two versions of queue implemented. Y
    **Customer :** Gildong Hong  
    **The current status of Queue : (Gildong Hong1)**  
    **In (0), out (1), exit (2) :** 0  
-   
    **Customer :** Gildong Kim  
    **The current status of Queue : (Gildong Hong1, Gildong Kim2)**  
    **In (0), out (1), exit (2) :** 1  
