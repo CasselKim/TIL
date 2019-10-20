@@ -248,6 +248,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/06/19) [6 Kyu] Photocopy decay](./C/191006/OnedayCoding.md)  
 
+[(10/21/19) [7 Kyu] Powers of 3](./C/191021/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
