@@ -177,6 +177,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/16/19) [7 Kyu] Bingo ( Or Not )](./Python/191016/OnedayCoding.md)  
 
+[(10/17/19) [6 Kyu] Reversing a Process](./Python/191017/OnedayCoding.md)  
+
 
 
 
