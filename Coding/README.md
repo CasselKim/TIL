@@ -179,6 +179,10 @@ Jupyter notebook & Jypyter lab
 
 [(10/17/19) [6 Kyu] Reversing a Process](./Python/191017/OnedayCoding.md)  
 
+[(10/23/19) [7 Kyu] Simple Fun #152: Invite More Women?](./Python/191023/OnedayCoding.md)  
+
+#### 
+
 
 
 
