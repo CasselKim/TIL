@@ -256,7 +256,11 @@ Jupyter notebook & Jypyter lab
 
 [(10/21/19) [7 Kyu] Powers of 3](./C/191021/OnedayCoding.md)  
 
-[(10/24/19) [6 Kyu] [6 Kyu] Mexican Wave](./C/191024/OnedayCoding.md)  
+[(10/24/19) [6 Kyu] Mexican Wave](./C/191024/OnedayCoding.md)  
+
+[(10/25/19) [8 Kyu] Keep Hydrated!](./C/191025/OnedayCoding.md)  
+
+
 
 
 

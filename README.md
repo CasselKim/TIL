@@ -262,6 +262,8 @@ The goal is to update this everyday... maybe
 
 * (10/24/2019) Coding practice
 
+* (10/25/2019) Coding practice
+
   
 
 
