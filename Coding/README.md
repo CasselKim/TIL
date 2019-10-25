@@ -260,6 +260,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/25/19) [8 Kyu] Keep Hydrated!](./C/191025/OnedayCoding.md)  
 
+[(10/26/19) [8 Kyu] Remove First and Last Character](./C/191026/OnedayCoding.md)  
+
 
 
 
