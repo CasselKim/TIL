@@ -264,6 +264,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/27/19) [7 Kyu] Complementary DNA](./C/191027/OnedayCoding.md)  
 
+[(10/28/19) [7 Kyu] Beginner Series #3 Sum of Numbers](./C/191028/OnedayCoding.md)  
+
 
 
 
