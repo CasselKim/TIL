@@ -262,6 +262,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/26/19) [8 Kyu] Remove First and Last Character](./C/191026/OnedayCoding.md)  
 
+[(10/27/19) [7 Kyu] Complementary DNA](./C/191027/OnedayCoding.md)  
+
 
 
 
