@@ -268,6 +268,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/29/19) [6 Kyu] Bit Counting](./C/191029/OnedayCoding.md)  
 
+[(10/30/19) [7 Kyu] Two to One](./C/191030/OnedayCoding.md)  
+
 
 
 
