@@ -270,8 +270,11 @@ The goal is to update this everyday... maybe
 
 * (10/28/2019) Coding practice
 
+* (10/29/2019) Coding practice
+
   
 
 
 ## Now Listen  
 
+마크튭 - 오늘도 빛나는 너에게(손효규 cover)
