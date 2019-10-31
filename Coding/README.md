@@ -161,6 +161,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>October/2019</summary>  
+<div markdown="1">  
+
 [(10/02/19) [6 Kyu] IntroToArt](./Python/191002/OnedayCoding.md)  
 
 [(10/10/19) [6 Kyu] Pyramid Array](./Python/191010/OnedayCoding.md)  
@@ -181,7 +185,8 @@ Jupyter notebook & Jypyter lab
 
 [(10/23/19) [7 Kyu] Simple Fun #152: Invite More Women?](./Python/191023/OnedayCoding.md)  
 
-
+</div>  
+</details>  
 
 
 
@@ -242,6 +247,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>October/2019</summary>  
+<div markdown="1">  
+
 [(10/01/19) [7 Kyu] Isograms](./C/191001/OnedayCoding.md)  
 
 [(10/02/19) [8 Kyu] Third Angle of a Triangle](./C/191002/OnedayCoding.md)  
@@ -270,7 +279,10 @@ Jupyter notebook & Jypyter lab
 
 [(10/30/19) [7 Kyu] Two to One](./C/191030/OnedayCoding.md)  
 
+[(10/31/19) [7 Kyu] Factorial](./C/191031/OnedayCoding.md)  
 
+</div>  
+</details>  
 
 
 

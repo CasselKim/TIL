@@ -208,73 +208,47 @@ The goal is to update this everyday... maybe
 </div>  
 </details>   
 
+<details>  
+<summary>October/2019</summary>  
+<div markdown="1">  
+
 * (10/01/2019) Coding Practice 
-
 * (10/01/2019) H.AI Study  
-
 * (10/02/2019) Coding Practice  
-
 * (10/03/2019) Coding Practice  
-
 * (10/04/2019) Coding Practice  
-
 * (10/05/2019) Coding Practice  
-
 * (10/06/2019) Coding Practice  
-
 * (10/07/2019) Create DataStructure folder
-
 * (10/08/2019) DataStructure practice
-
 * (10/08/2019) DataStructure practice
-
 * (10/09/2019) DataStructure practice
-
 * (10/10/2019) DataStructure practice
-
 * (10/10/2019) Coding practice
-
 * (10/11/2019) Coding practice
-
 * (10/12/2019) Coding practice
-
 * (10/13/2019) Coding practice
-
 * (10/14/2019) Coding practice
-
 * (10/15/2019) Coding practice
-
 * (10/16/2019) Coding practice
-
 * (10/17/2019) DataStructure practice
-
 * (10/18/2019) DataStructure practice
-
 * (10/19/2019) DataStructure practice
-
 * (10/20/2019) DataStructure practice
-
 * (10/21/2019) Coding practice
-
 * (10/22/2019) Coding practice
-
 * (10/23/2019) Coding practice
-
 * (10/24/2019) Coding practice
-
 * (10/25/2019) Coding practice
-
 * (10/26/2019) Coding practice
-
 * (10/27/2019) Coding practice
-
 * (10/28/2019) Coding practice
-
 * (10/29/2019) Coding practice
-
 * (10/30/2019) Coding practice
+* (10/31/2019) Coding practice
 
-  
+</div>  
+</details>  
 
 
 ## Now Listen  
