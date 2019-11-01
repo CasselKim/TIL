@@ -284,6 +284,8 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+[(11/01/19) [8 Kyu] Find the Integral](./C/191101/OnedayCoding.md)  
+
 
 
 ## C ++ Log  

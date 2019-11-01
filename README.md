@@ -250,7 +250,11 @@ The goal is to update this everyday... maybe
 </div>  
 </details>  
 
+* (11/01/2019) Coding practice
+* (11/01/2019) Unreal Steel Team Building
+* (11/01/2019) Autonomous Unreal Steel Hackerthon
+
 
 ## Now Listen  
 
-마크튭 - 오늘도 빛나는 너에게(손효규 cover)
+케이시 - 가을밤 떠난 너
