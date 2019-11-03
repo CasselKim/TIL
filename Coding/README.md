@@ -286,6 +286,8 @@ Jupyter notebook & Jypyter lab
 
 [(11/01/19) [8 Kyu] Find the Integral](./C/191101/OnedayCoding.md)  
 
+[(11/03/19) [6 Kyu] Generic numeric template formatter](./C/191103/OnedayCoding.md)  
+
 
 
 ## C ++ Log  
