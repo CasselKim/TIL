@@ -12,9 +12,9 @@ Holy...
 
 
 **continuous assignment(연속할당문)**
-* assign문을 이용하여 net형(wire) 객체에 스칼라 또는 벡터 형태의 값을 할당
-`assign wire x = a;`
-`assign wire [3:0] x = b;`
+* assign문을 이용하여 net형(wire) 객체에 스칼라 또는 벡터 형태의 값을 할당  
+`assign wire x = a;`  
+`assign wire [3:0] x = b;`  
 
 * 우변 수식의 값에 변화(event)가 발생 -> 좌변의 객체에 값의 할당이 일어남
 
