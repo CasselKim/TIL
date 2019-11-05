@@ -288,6 +288,10 @@ Jupyter notebook & Jypyter lab
 
 [(11/03/19) [6 Kyu] Generic numeric template formatter](./C/191103/OnedayCoding.md)  
 
+[(11/06/19) [7 Kyu] Find the longest gap!](./C/191106/OnedayCoding.md)  
+
+
+
 
 
 ## C ++ Log  

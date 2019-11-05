@@ -251,13 +251,25 @@ The goal is to update this everyday... maybe
 </details>  
 
 * (11/01/2019) Coding practice
+
 * (11/01/2019) Unreal Steel Team Building
+
 * (11/01/2019) volunteer Unreal Steel Hackerthon
+
 * (11/02/2019) volunteer Unreal Steel Hackerthon
+
 * (11/02/2019) Set one-week plan of project
+
 * (11/03/2019) Coding Practice
+
+* (11/04/2019) Coding Practice
+
+* (11/05/2019) Coding Practice
+
+* (11/07/2019) Coding Practice
+
+  
 
 
 ## Now Listen  
 
-송하예 - 새 사랑

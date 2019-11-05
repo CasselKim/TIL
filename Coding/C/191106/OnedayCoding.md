@@ -36,7 +36,22 @@ Test(static_tests, should_pass_all_tests_provided) {
 ## My solution
 
 ```c
+#include <stdio.h>
+#include <stdbool.h>
 
+unsigned int gap(unsigned int num){
+  unsigned int max=0, count=0;
+  bool isSurrounded = false;
+  for(; num; num>>=1){
+    if(num&1) {
+      if(count>max) max = count;
+      count=0;
+      isSurrounded = true;
+    }
+    else if(isSurrounded) count++;
+  }
+  return max;
+}
 ```
 
 
@@ -53,28 +68,33 @@ You have passed all of the tests! :)
 
 
 
-Time: 844ms Passed: 133 Failed: 0
+ Time: 1024ms Passed: 132 Failed: 0 
 
 
 
 ## Best Solution
 
 ```c
-char *numeric_formatter(char *template, char *input)
-{
-    char *dflt = "1234567890";
-    if (!*input) input = dflt;
-    else dflt = input;
-    char *res = strdup(template);
-    char *str = res;
-    while (*str)
-    {
-        if (*str >= 'a' && *str <= 'z' || *str >= 'A' && *str <= 'Z' && *input)
-            *str = *input++;
-        ++str;
-        if (!*input) input = dflt;
+unsigned int gap(unsigned int num){
+  if(!num) return 0;
+  
+  unsigned int largest = 0;
+  
+  while(num%2 == 0){
+    num>>=1;
+  }
+  for(unsigned int i=0; num>0; i++){
+    if(num&1){
+      i=0;
     }
-    return res;
+    if(i>largest){
+      largest = i;
+    }
+    
+    num >>= 1;
+  }
+  
+  return largest;
 }
 ```
 
