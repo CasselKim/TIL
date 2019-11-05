@@ -9,7 +9,7 @@ The goal is to update this everyday... maybe
 ## TIL List
 
 * [Programs](https://github.com/CasselKim/Programs)
-aawe
+
 * [Coding](./Coding)
 
 * [NN](./NN)
@@ -272,8 +272,3 @@ aawe
 
 
 ## Now Listen  
-
-<<<<<<< HEAD
-=======
-송하예 - 새 사랑
->>>>>>> fcd5f2833ef5f7a1b6970730565abb2702fed3fa
