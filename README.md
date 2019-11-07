@@ -266,9 +266,13 @@ The goal is to update this everyday... maybe
 
 * (11/05/2019) Coding Practice
 
+* (11/06/2019) Coding Practice
+
 * (11/07/2019) Coding Practice
 
   
 
 
 ## Now Listen  
+
+Zion.T - Click Me(Feat.Dok2)

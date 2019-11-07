@@ -290,6 +290,8 @@ Jupyter notebook & Jypyter lab
 
 [(11/06/19) [7 Kyu] Find the longest gap!](./C/191106/OnedayCoding.md)  
 
+[(11/07/19) [7 Kyu] Consecutive Ducks](./C/191107/OnedayCoding.md)  
+
 
 
 
