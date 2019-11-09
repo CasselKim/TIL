@@ -270,9 +270,16 @@ The goal is to update this everyday... maybe
 
 * (11/07/2019) Coding Practice
 
+* (11/08/2019) Unreal Steel Second Hackerthon
+
+* (11/09/2019) Unreal Steel Second Hackerthon
+
+* (11/09/2019) Documentate UnrealSteel
+
+* (11/09/2019) Coding Practice
+
   
 
 
 ## Now Listen  
 
-Zion.T - Click Me(Feat.Dok2)

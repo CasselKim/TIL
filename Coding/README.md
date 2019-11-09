@@ -292,6 +292,8 @@ Jupyter notebook & Jypyter lab
 
 [(11/07/19) [7 Kyu] Consecutive Ducks](./C/191107/OnedayCoding.md)  
 
+[(11/09/19) [7 Kyu] Simple Fun #74: Growing Plant](./C/191109/OnedayCoding.md)  
+
 
 
 
