@@ -278,8 +278,17 @@ The goal is to update this everyday... maybe
 
 * (11/09/2019) Coding Practice
 
+* (11/10/2019) Proceed UnrealSteel Project
+
+* (11/11/2019) Proceed UnrealSteel Project
+
+* (11/11/2019) Add AI Ethics at Useful Articles
+
+* (11/12/2019) Proceed UnrealSteel Project
+
   
 
 
 ## Now Listen  
 
+아이유 - 너랑나
