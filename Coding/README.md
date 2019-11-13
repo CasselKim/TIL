@@ -294,6 +294,8 @@ Jupyter notebook & Jypyter lab
 
 [(11/09/19) [7 Kyu] Simple Fun #74: Growing Plant](./C/191109/OnedayCoding.md)  
 
+[(11/13/19) [6 Kyu] Who has the most money?](./C/191113/OnedayCoding.md)  
+
 
 
 

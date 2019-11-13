@@ -286,9 +286,10 @@ The goal is to update this everyday... maybe
 
 * (11/12/2019) Proceed UnrealSteel Project
 
+* (11/13/2019) Coding Practice
+
   
 
 
 ## Now Listen  
 
-아이유 - 너랑나
