@@ -30,44 +30,44 @@ Implement a number sorting utilizing the two versions of List implemented. You s
    　
    
    실행 예) Execution Example) 
-   **In (0), Search (1), Out (2), Exit (3) :** 0 
-   **In :** 5 
-   **The current status of List : 5**
+   **In (0), Search (1), Out (2), Exit (3) :** 0   
+   **In :** 5   
+   **The current status of List : 5**  
    
    
    
-   **In (0), Search (1), Out (2), Exit (3) :** 0 
+   **In (0), Search (1), Out (2), Exit (3) :** 0   
    
-   **Input :** 1 
-   **The current status of List :** 1, 5 
-   
-   
-   
-   **In (0), Search (1), Out (2), Exit (3) :** 1 
-   **Search :** 2 
-   **My List does not have 2.**
-   **The current status of List :** 1, 5 
+   **Input :** 1   
+   **The current status of List :** 1, 5   
    
    
    
-   **In (0), Search (1), Out (2), Exit (3) :** 0 
-   **In :** 3 
-   **The current status of List :** 1, 3, 5 
+   **In (0), Search (1), Out (2), Exit (3) :** 1   
+   **Search :** 2   
+   **My List does not have 2.**  
+   **The current status of List :** 1, 5   
    
    
    
-   **In (0), Search (1), Out (2), Exit (3) :** 1 
-   **Search :** 3 
-   **My List has 3.**
-   **The current status of List :** 1, 3, 5 
+   **In (0), Search (1), Out (2), Exit (3) :** 0   
+   **In :** 3   
+   **The current status of List :** 1, 3, 5   
    
    
    
-   **In (0), Search (1), Out (2), Exit (3) :** 2 
-   **Out :** 3 
-   **3 was removed.**
-   **The current status of List :** 1, 5 
-   **In (0), Search (1), Out (2), Exit (3) :** 3
+   **In (0), Search (1), Out (2), Exit (3) :** 1   
+   **Search :** 3   
+   **My List has 3.**  
+   **The current status of List :** 1, 3, 5   
+   
+   
+   
+   **In (0), Search (1), Out (2), Exit (3) :** 2   
+   **Out :** 3   
+   **3 was removed.**  
+   **The current status of List :** 1, 5   
+   **In (0), Search (1), Out (2), Exit (3) :** 3  
 
 
 
