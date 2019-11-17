@@ -288,9 +288,9 @@ The goal is to update this everyday... maybe
 
 * (11/13/2019) Coding Practice
 
-* (11/14/2019) Pracktice Data Structure
+* (11/14/2019) Practice Data Structure
 
-* (11/15/2019) Pracktice Data Structure
+* (11/15/2019) Practice Data Structure
 
 * (11/15/2019) Unreal Steel Third Hackerthon
 
@@ -299,6 +299,8 @@ The goal is to update this everyday... maybe
 * (11/16/2019) Unreal Steel Fourth Hackerthon
 
 * (11/17/2019) Unreal Steel Fourth Hackerthon
+
+* (11/18/2019) Practice Data Structure
 
   
 
