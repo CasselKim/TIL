@@ -302,6 +302,12 @@ The goal is to update this everyday... maybe
 
 * (11/18/2019) Practice Data Structure
 
+* (11/19/2019) Proceed UnrealSteel Project
+
+* (11/20/2019) Unreal Steel Final Hackerthon
+
+* (11/21/2019) Logic Circuit Design Study
+
   
 
 
