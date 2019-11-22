@@ -308,6 +308,8 @@ The goal is to update this everyday... maybe
 
 * (11/21/2019) Logic Circuit Design Study
 
+* (11/22/2019) Logic Circuit Design Study
+
   
 
 
