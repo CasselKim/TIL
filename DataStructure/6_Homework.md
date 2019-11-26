@@ -11,9 +11,9 @@ You should submit the codes corresponding to the following problems 1, 2, 3, 4
 
 ### Contents
 
-**Graph1 : **![image](Graph1.png)
+**Graph1 :**![image](Graph1.png)
 
-**Graph2 : **![image](Graph2.png)
+**Graph2 :**![image](Graph2.png)
 
 1. Graph 를 (1) adjacency matrix 와 (2) adjacency list 를 이용하여 구현하시오. 이 구현한 부분을 이후 문제에서는 활용할 것.
 Implement the Graphs using (1) adjacency matrix and (2) adjacency list. These graphs should be utilized at the following problems.
