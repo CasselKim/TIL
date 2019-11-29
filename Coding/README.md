@@ -296,6 +296,8 @@ Jupyter notebook & Jypyter lab
 
 [(11/13/19) [6 Kyu] Who has the most money?](./C/191113/OnedayCoding.md)  
 
+[(11/30/19) [7 Kyu] Thinking & Testing: A and B?](./C/191130/OnedayCoding.md)  
+
 
 
 

@@ -310,6 +310,22 @@ The goal is to update this everyday... maybe
 
 * (11/22/2019) Logic Circuit Design Study
 
+* (11/23/2019) Practice Data Structure
+
+* (11/24/2019) Translate Curvefitting
+
+* (11/25/2019) Translate Curvefitting
+
+* (11/26/2019) Practice Data Structure
+
+* (11/27/2019) Start Knee2Shoulder
+
+* (11/28/2019) Translate Curvefitting
+
+* (11/29/2019) Translate Curvefitting
+
+* (11/30/2019) Coding Practice
+
   
 
 
