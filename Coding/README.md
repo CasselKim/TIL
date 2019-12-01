@@ -306,6 +306,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/01/19) [6 Kyu] The Deaf Rats of Hamelin](./C/191201/OnedayCoding.md)  
 
+[(12/02/19) [6 Kyu] Errors : histogram](./C/191202/OnedayCoding.md)  
+
 
 
 
