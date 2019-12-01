@@ -251,83 +251,52 @@ The goal is to update this everyday... maybe
 </details>  
 
 * (11/01/2019) Coding practice
-
 * (11/01/2019) Unreal Steel Team Building
-
 * (11/01/2019) volunteer Unreal Steel Hackerthon
-
 * (11/02/2019) volunteer Unreal Steel Hackerthon
-
 * (11/02/2019) Set one-week plan of project
-
 * (11/03/2019) Coding Practice
-
 * (11/04/2019) Coding Practice
-
 * (11/05/2019) Coding Practice
-
 * (11/06/2019) Coding Practice
-
 * (11/07/2019) Coding Practice
-
 * (11/08/2019) Unreal Steel Second Hackerthon
-
 * (11/09/2019) Unreal Steel Second Hackerthon
-
 * (11/09/2019) Documentate UnrealSteel
-
 * (11/09/2019) Coding Practice
-
 * (11/10/2019) Proceed UnrealSteel Project
-
 * (11/11/2019) Proceed UnrealSteel Project
-
 * (11/11/2019) Add AI Ethics at Useful Articles
-
 * (11/12/2019) Proceed UnrealSteel Project
-
 * (11/13/2019) Coding Practice
-
 * (11/14/2019) Practice Data Structure
-
 * (11/15/2019) Practice Data Structure
-
 * (11/15/2019) Unreal Steel Third Hackerthon
-
 * (11/16/2019) Unreal Steel Third Hackerthon
-
 * (11/16/2019) Unreal Steel Fourth Hackerthon
-
 * (11/17/2019) Unreal Steel Fourth Hackerthon
-
 * (11/18/2019) Practice Data Structure
-
 * (11/19/2019) Proceed UnrealSteel Project
-
 * (11/20/2019) Unreal Steel Final Hackerthon
-
 * (11/21/2019) Logic Circuit Design Study
-
 * (11/22/2019) Logic Circuit Design Study
-
 * (11/23/2019) Practice Data Structure
-
 * (11/24/2019) Translate Curvefitting
-
 * (11/25/2019) Translate Curvefitting
-
 * (11/26/2019) Practice Data Structure
-
 * (11/27/2019) Start Knee2Shoulder
-
 * (11/28/2019) Translate Curvefitting
-
 * (11/29/2019) Translate Curvefitting
-
 * (11/30/2019) Coding Practice
 
-  
+</div>  
+</details>  
 
+<details>  
+<summary>November/2019</summary>  
+<div markdown="1"> 
+
+* (12/01/2019) Coding Practice
 
 ## Now Listen  
 

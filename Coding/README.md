@@ -197,7 +197,6 @@ Jupyter notebook & Jypyter lab
 <details>  
 <summary>September/2019</summary>  
 <div markdown="1">  
-
 [(09/06/19) [8 Kyu] A Needle in the Haystack](./C/190906/OnedayCoding.md)  
 
 [(09/06/19) [8 Kyu] Even or Odd](./C/190906-2/OnedayCoding.md)  
@@ -284,6 +283,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>November/2019</summary>  
+<div markdown="1">  
+
 [(11/01/19) [8 Kyu] Find the Integral](./C/191101/OnedayCoding.md)  
 
 [(11/03/19) [6 Kyu] Generic numeric template formatter](./C/191103/OnedayCoding.md)  
@@ -297,6 +300,11 @@ Jupyter notebook & Jypyter lab
 [(11/13/19) [6 Kyu] Who has the most money?](./C/191113/OnedayCoding.md)  
 
 [(11/30/19) [7 Kyu] Thinking & Testing: A and B?](./C/191130/OnedayCoding.md)  
+
+</div>  
+</details>  
+
+[(12/01/19) [6 Kyu] The Deaf Rats of Hamelin](./C/191201/OnedayCoding.md)  
 
 
 
