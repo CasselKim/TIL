@@ -250,6 +250,10 @@ The goal is to update this everyday... maybe
 </div>  
 </details>  
 
+<details>  
+<summary>November/2019</summary>  
+<div markdown="1"> 
+
 * (11/01/2019) Coding practice
 * (11/01/2019) Unreal Steel Team Building
 * (11/01/2019) volunteer Unreal Steel Hackerthon
@@ -292,9 +296,6 @@ The goal is to update this everyday... maybe
 </div>  
 </details>  
 
-<details>  
-<summary>November/2019</summary>  
-<div markdown="1"> 
 
 * (12/01/2019) Coding Practice
 
