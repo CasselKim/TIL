@@ -299,6 +299,7 @@ The goal is to update this everyday... maybe
 
 * (12/01/2019) Coding Practice
 * (12/02/2019) Coding Practice
+* (12/03/2019) Coding Practice
 
 ## Now Listen  
 
