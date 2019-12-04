@@ -310,7 +310,7 @@ Jupyter notebook & Jypyter lab
 
 [(12/03/19) [6 Kyu] Vowels Back](./C/191203/OnedayCoding.md)  
 
-
+[(12/04/19) [6 Kyu] Positions Average](./C/191204/OnedayCoding.md)  
 
 
 
