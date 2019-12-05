@@ -301,6 +301,7 @@ The goal is to update this everyday... maybe
 * (12/02/2019) Coding Practice
 * (12/03/2019) Coding Practice
 * (12/04/2019) Coding Practice
+* (12/05/2019) Logic Circuit Design Project
 
 ## Now Listen  
 
