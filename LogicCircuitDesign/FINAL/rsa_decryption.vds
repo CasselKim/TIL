@@ -1,0 +1,143 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Dec  7 04:23:17 2019
+# Process ID: 1796
+# Current directory: C:/Users/seong/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log rsa_decryption.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rsa_decryption.tcl
+# Log file: C:/Users/seong/project_1/project_1.runs/synth_1/rsa_decryption.vds
+# Journal file: C:/Users/seong/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rsa_decryption.tcl -notrace
+Command: synth_design -top rsa_decryption -part xc7a12ticsg325-1L
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a12ti'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a12ti'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 9312 
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 339.324 ; gain = 83.867
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'rsa_decryption' [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:1]
+INFO: [Synth 8-6157] synthesizing module 'find_pqd' [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:145]
+INFO: [Synth 8-6155] done synthesizing module 'find_pqd' (1#1) [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:145]
+INFO: [Synth 8-6157] synthesizing module 'decrypting' [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:123]
+INFO: [Synth 8-6155] done synthesizing module 'decrypting' (2#1) [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:123]
+INFO: [Synth 8-6155] done synthesizing module 'rsa_decryption' (3#1) [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:1]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[31]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[30]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[29]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[28]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[27]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[26]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[25]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[24]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[23]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[22]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[21]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[20]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[19]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[18]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[17]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[16]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[15]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[14]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[13]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[12]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[11]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[10]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[9]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[8]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[7]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[6]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[5]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[4]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[3]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[2]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[1]
+WARNING: [Synth 8-3331] design decrypting has unconnected port e[0]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[31]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[30]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[29]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[28]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[27]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[26]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[25]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[24]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[23]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[22]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[21]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[20]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[19]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[18]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[17]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[16]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[15]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[14]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[13]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[12]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[11]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[10]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[9]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[8]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[7]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[6]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[5]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[4]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[3]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[2]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[1]
+WARNING: [Synth 8-3331] design decrypting has unconnected port p[0]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[31]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[30]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[29]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[28]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[27]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[26]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[25]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[24]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[23]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[22]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[21]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[20]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[19]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[18]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[17]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[16]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[15]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[14]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[13]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[12]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[11]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[10]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[9]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[8]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[7]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[6]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[5]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[4]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[3]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[2]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[1]
+WARNING: [Synth 8-3331] design decrypting has unconnected port q[0]
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:07:15 ; elapsed = 00:07:16 . Memory (MB): peak = 1107.230 ; gain = 851.773
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:07:18 ; elapsed = 00:07:20 . Memory (MB): peak = 1107.230 ; gain = 851.773
+---------------------------------------------------------------------------------
+INFO: [Synth 8-5580] Multithreading enabled for synth_design using a maximum of 2 processes.
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a12ticsg325-1L
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:07:18 ; elapsed = 00:07:20 . Memory (MB): peak = 1107.230 ; gain = 851.773
+---------------------------------------------------------------------------------
+INFO: [Device 21-403] Loading part xc7a12ticsg325-1L
+INFO: [Synth 8-5545] ROM "p" won't be mapped to RAM because address size (32) is larger than maximum supported(25)
+INFO: [Synth 8-5845] Not enough pipeline registers after wide multiplier. Recommended levels of pipeline registers is 4 [C:/Users/seong/Desktop/homework/Final/rsa_decryption.v:241]
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:20:56 ; elapsed = 00:25:03 . Memory (MB): peak = 38543.191 ; gain = 38287.734
+---------------------------------------------------------------------------------
