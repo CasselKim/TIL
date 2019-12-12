@@ -308,5 +308,6 @@ The goal is to update this everyday... maybe
 * (12/09/2019) Data Structure Practice
 * (12/10/2019) Data Structure Practice
 * (12/11/2019) Logic Circuit Design Project
+* (12/12/2019) Logic Circuit Design Project
 ## Now Listen  
 
