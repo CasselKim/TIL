@@ -188,6 +188,8 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+[(12/13/19) [7 Kyu] Breaking chocolate problem](./Python/191213/OnedayCoding.md)  
+
 
 
 
