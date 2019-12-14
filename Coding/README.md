@@ -190,6 +190,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/13/19) [7 Kyu] Breaking chocolate problem](./Python/191213/OnedayCoding.md)  
 
+[(12/14/19) [6 Kyu] Vasya - Clerk](./Python/191214/OnedayCoding.md)  
+
 
 
 
