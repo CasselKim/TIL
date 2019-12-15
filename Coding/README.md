@@ -192,6 +192,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/14/19) [6 Kyu] Vasya - Clerk](./Python/191214/OnedayCoding.md)  
 
+[(12/15/19) [7 Kyu] Numbers to Letters](./Python/191215/OnedayCoding.md)  
+
 
 
 
