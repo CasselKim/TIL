@@ -194,7 +194,7 @@ Jupyter notebook & Jypyter lab
 
 [(12/15/19) [7 Kyu] Numbers to Letters](./Python/191215/OnedayCoding.md)  
 
-
+[(12/16/19) [6 Kyu] Schrödinger's Boolean](./Python/191216/OnedayCoding.md)  
 
 
 
