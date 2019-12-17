@@ -196,6 +196,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/16/19) [6 Kyu] Schrödinger's Boolean](./Python/191216/OnedayCoding.md)  
 
+[(12/17/19) [7 Kyu] Squad number generator](./Python/191217/OnedayCoding.md)  
+
 
 
 ## C Log  

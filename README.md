@@ -313,6 +313,7 @@ The goal is to update this everyday... maybe
 * (12/14/2019) Coding Practice
 * (12/15/2019) Coding Practice
 * (12/16/2019) Coding Practice
+* (12/17/2019) Coding Practice
 
 
 
