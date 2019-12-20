@@ -316,6 +316,7 @@ The goal is to update this everyday... maybe
 * (12/17/2019) Coding Practice
 * (12/18/2019) Coding Practice
 * (12/19/2019) RSA Design PPT
+* (12/20/2019) Workflow tool study
 
 
 
