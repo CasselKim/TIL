@@ -317,7 +317,10 @@ The goal is to update this everyday... maybe
 * (12/18/2019) Coding Practice
 * (12/19/2019) RSA Design PPT
 * (12/20/2019) Workflow tool study
-
+* (12/21/2019) Start Knee2Shoulder
+* (12/22/2019) Workflow tool study
+* (12/23/2019) Knee2Shoulder study
+* (12/24/2019) Knee2Shoulder study
 
 
 ## Now Listen  
