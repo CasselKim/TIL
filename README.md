@@ -323,6 +323,8 @@ The goal is to update this everyday... maybe
 * (12/24/2019) Knee2Shoulder study
 * (12/25/2019) Coding Practice
 * (12/26/2019) Knee2Shoulder study
+* (12/27/2019) Knee2Shoulder study
+* (12/28/2019) Knee2Shoulder study
 
 ## Now Listen  
 
