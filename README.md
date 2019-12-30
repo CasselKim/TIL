@@ -327,6 +327,7 @@ The goal is to update this everyday... maybe
 * (12/28/2019) Knee2Shoulder study
 * (12/29/2019) Knee2Shoulder study
 * (12/30/2019) Knee2Shoulder study
+* (12/31/2019) C++ - python Embedding practice
 
 ## Now Listen  
 
