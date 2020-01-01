@@ -22,17 +22,25 @@
 
 Jupyter notebook & Jypyter lab
 
+　  
 
+## HackerRank
 
-## Python Log
+### The HackerRank Interview Preparation Kit
 
+#### Warm-up Challenges
 
+[Sock Merchant](HackerRank\warm-up_challenges\SockMerchant.md)
+
+　  
+
+## Codewars
+
+### Python Log
 
 <details>  
 <summary>July/2019</summary>  
-<div markdown="1">  
-  
-
+<div markdown="1">    
 [(07/10/19) [8 kyu] Beginner - Lost Without a Map](./Python/190710/Lost_Without_a_Map.md)
 
 [(07/11/19) [7 kyu] Average Array](./Python/190711/OnedayCoding.md)
@@ -209,7 +217,7 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
-## C Log  
+### C Log  
 
 <details>  
 <summary>September/2019</summary>  
@@ -336,7 +344,7 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
-## C ++ Log  
+### C ++ Log  
 
 <details>  
 <summary>September/2019</summary>  
