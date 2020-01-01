@@ -4,11 +4,19 @@ Just saving what I Leaned today
 
 The goal is to update this everyday... maybe
 
+　  
+
+[2020 Reorganization form of TIL]
+
+1. **Do not abuse for filling commit blocks**
+2. Upload summarized documents and  project tutorials on Github repository
+3. Upload detailed articles and explanation on Notion
+4. Do coding as many as possible at least easy one
+5. Write just the link what I did today, not detail explanation on this repo.
+
 
 
 ## TIL List
-
-* [Programs](https://github.com/CasselKim/Programs)
 
 * [Coding](./Coding)
 
@@ -296,6 +304,10 @@ The goal is to update this everyday... maybe
 </div>  
 </details>  
 
+<details>  
+<summary>December/2019</summary>  
+<div markdown="1"> 
+
 
 * (12/01/2019) Coding Practice
 * (12/02/2019) Coding Practice
@@ -328,6 +340,11 @@ The goal is to update this everyday... maybe
 * (12/29/2019) Knee2Shoulder study
 * (12/30/2019) Knee2Shoulder study
 * (12/31/2019) C++ - python Embedding practice
+
+</div>  
+</details>  
+
+* (01/01/2020) GAN Study
 
 ## Now Listen  
 

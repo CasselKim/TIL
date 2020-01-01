@@ -6,6 +6,8 @@
 
 [Codewars](https://www.codewars.com/)  
 
+[Hackerrank](https://www.hackerrank.com/)  
+
 [Goorm-edu](https://edu.goorm.io/)  
 
 [백준](https://www.acmicpc.net/)  
@@ -188,6 +190,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>December/2019</summary>  
+<div markdown="1">  
+
 [(12/13/19) [7 Kyu] Breaking chocolate problem](./Python/191213/OnedayCoding.md)  
 
 [(12/14/19) [6 Kyu] Vasya - Clerk](./Python/191214/OnedayCoding.md)  
@@ -200,7 +206,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/25/19) [7 Kyu] Maximum Multiple](./Python/191225/OnedayCoding.md)  
 
-
+</div>  
+</details>  
 
 ## C Log  
 
@@ -314,6 +321,10 @@ Jupyter notebook & Jypyter lab
 </div>  
 </details>  
 
+<details>  
+<summary>December/2019</summary>  
+<div markdown="1">  
+
 [(12/01/19) [6 Kyu] The Deaf Rats of Hamelin](./C/191201/OnedayCoding.md)  
 
 [(12/02/19) [6 Kyu] Errors : histogram](./C/191202/OnedayCoding.md)  
@@ -322,7 +333,8 @@ Jupyter notebook & Jypyter lab
 
 [(12/04/19) [6 Kyu] Positions Average](./C/191204/OnedayCoding.md)  
 
-
+</div>  
+</details>  
 
 ## C ++ Log  
 
