@@ -348,7 +348,9 @@ The goal is to update this everyday... maybe
 * (01/02/2020) GAN Seminar with Prof.Gil's lab
 * (01/02/2020) Logic circuit study
 * (01/02/2020) Start studying socket programming
+* (01/02/2020) Start Hackerrank
 
 
 ## Now Listen  
 
+다모임 - 아마두

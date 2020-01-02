@@ -32,6 +32,8 @@ Jupyter notebook & Jypyter lab
 
 [Sock Merchant](HackerRank\warm-up_challenges\SockMerchant.md)
 
+[Simple Array Sum](HackerRank\warm-up_challenges\SimpleArray.md)  　  
+
 　  
 
 ## Codewars
