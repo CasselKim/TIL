@@ -30,9 +30,9 @@ Jupyter notebook & Jypyter lab
 
 #### Warm-up Challenges
 
-[Sock Merchant](HackerRank\warm-up_challenges\SockMerchant.md)
+[Sock Merchant](HackerRank/warm-up_challenges/SockMerchant.md)
 
-[Simple Array Sum](HackerRank\warm-up_challenges\SimpleArray.md)  　  
+[Simple Array Sum](HackerRank/warm-up_challenges/SimpleArray.md)  　  
 
 　  
 
