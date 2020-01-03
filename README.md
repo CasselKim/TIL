@@ -350,7 +350,7 @@ The goal is to update this everyday... maybe
 * (01/02/2020) Start studying socket programming
 * (01/02/2020) Start Hackerrank
 * (01/03/2020) Coding Practice
-
+* (01/03/2020) Socket Programming  
 
 ## Now Listen  
 
