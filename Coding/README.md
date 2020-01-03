@@ -34,6 +34,8 @@ Jupyter notebook & Jypyter lab
 
 [Simple Array Sum](HackerRank/warm-up_challenges/SimpleArray.md)  　  
 
+[Compare the Triplets](HackerRank/warm-up_challenges/CompareTriplets.md)  　  
+
 　  
 
 ## Codewars
