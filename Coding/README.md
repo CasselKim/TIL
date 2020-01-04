@@ -36,6 +36,8 @@ Jupyter notebook & Jypyter lab
 
 [Compare the Triplets](HackerRank/warm-up_challenges/CompareTriplets.md)  　  
 
+[2D Array - DS](HackerRank/arrays/2DArrayDS.md)  　  
+
 　  
 
 ## Codewars
