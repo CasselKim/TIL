@@ -353,6 +353,7 @@ The goal is to update this everyday... maybe
 * (01/03/2020) Socket Programming  
 * (01/04/2020) Coding Practice
 * (01/04/2020) Socket Programming  
+* (01/05/2020) Logic circuit study  
 
 ## Now Listen  
 
