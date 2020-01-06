@@ -345,16 +345,30 @@ The goal is to update this everyday... maybe
 </details>  
 
 * (01/01/2020) GAN Study
+
 * (01/02/2020) GAN Seminar with Prof.Gil's lab
+
 * (01/02/2020) Logic circuit study
+
 * (01/02/2020) Start studying socket programming
+
 * (01/02/2020) Start Hackerrank
+
 * (01/03/2020) Coding Practice
+
 * (01/03/2020) Socket Programming  
+
 * (01/04/2020) Coding Practice
+
 * (01/04/2020) Socket Programming  
+
 * (01/05/2020) Logic circuit study  
+
 * (01/06/2020) Unreal engine socket programming
+
+* (01/06/2020) Coding Practice  
+
+  
 
 ## Now Listen  
 

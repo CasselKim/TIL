@@ -38,6 +38,8 @@ Jupyter notebook & Jypyter lab
 
 [2D Array - DS](HackerRank/arrays/2DArrayDS.md)  　  
 
+[Arrays - DS](HackerRank/arrays/ArrayDS.md)  　  
+
 　  
 
 ## Codewars
