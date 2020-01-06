@@ -354,6 +354,7 @@ The goal is to update this everyday... maybe
 * (01/04/2020) Coding Practice
 * (01/04/2020) Socket Programming  
 * (01/05/2020) Logic circuit study  
+* (01/06/2020) Unreal engine socket programming
 
 ## Now Listen  
 
