@@ -368,7 +368,11 @@ The goal is to update this everyday... maybe
 
 * (01/06/2020) Coding Practice  
 
-* (01/07/2020) Unreal engine socket programming
+* (01/07/2020) Unreal engine socket programming  
+
+* (01/08/2020) Unreal engine socket programming  
+
+* (01/09/2020) Unreal engine socket programming  
 
 
 
