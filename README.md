@@ -378,6 +378,10 @@ The goal is to update this everyday... maybe
 
 * (01/11/2020) Unreal engine socket programming  
 
+* (01/12/2020) Unreal engine socket programming  
+
+* (01/12/2020) Logic circuit study  
+
 
 ## Now Listen  
 
