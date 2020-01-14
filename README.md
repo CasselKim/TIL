@@ -384,6 +384,8 @@ The goal is to update this everyday... maybe
 
 * (01/13/2020) Unreal engine socket programming  
 
+* (01/14/2020) Unreal engine Live Link Retargeting  
+
 ## Now Listen  
 
 
