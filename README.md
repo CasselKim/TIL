@@ -386,6 +386,12 @@ The goal is to update this everyday... maybe
 
 * (01/14/2020) Unreal engine Live Link Retargeting  
 
+* (01/15/2020) Unreal engine Live Link Retargeting  
+
+* (01/16/2020) Unreal engine Live Link Retargeting  
+
+* (01/16/2020) GAN Seminar with Prof.Gil's lab
+
 ## Now Listen  
 
 
