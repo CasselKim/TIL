@@ -368,31 +368,31 @@ The goal is to update this everyday... maybe
 
 * (01/06/2020) Coding Practice  
 
-* (01/07/2020) Unreal engine socket programming  
+* (01/07/2020) Unreal Engine socket programming  
 
-* (01/08/2020) Unreal engine socket programming  
+* (01/08/2020) Unreal Engine socket programming  
 
-* (01/09/2020) Unreal engine socket programming  
+* (01/09/2020) Unreal Engine socket programming  
 
-* (01/10/2020) Unreal engine socket programming  
+* (01/10/2020) Unreal Engine socket programming  
 
-* (01/11/2020) Unreal engine socket programming  
+* (01/11/2020) Unreal Engine socket programming  
 
-* (01/12/2020) Unreal engine socket programming  
+* (01/12/2020) Unreal Engine socket programming  
 
 * (01/12/2020) Logic circuit study  
 
-* (01/13/2020) Unreal engine socket programming  
+* (01/13/2020) Unreal Engine socket programming  
 
-* (01/14/2020) Unreal engine Live Link Retargeting  
+* (01/14/2020) Unreal Engine Live Link Retargeting  
 
-* (01/15/2020) Unreal engine Live Link Retargeting  
+* (01/15/2020) Unreal Engine Live Link Retargeting  
 
-* (01/16/2020) Unreal engine Live Link Retargeting  
+* (01/16/2020) Unreal Engine Live Link Retargeting  
 
 * (01/16/2020) GAN Seminar with Prof.Gil's lab  
 
-* (01/17/2020) Unreal engine Live Link Retargeting  
+* (01/17/2020) Unreal Engine Bone Match Processing  
 
 ## Now Listen  
 
