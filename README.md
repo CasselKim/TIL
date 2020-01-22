@@ -12,7 +12,7 @@ The goal is to update this everyday... maybe
 2. Upload summarized documents and  project tutorials on Github repository
 3. Upload detailed articles and explanation on Notion
 4. Do coding as many as possible at least easy one
-5. Write just the link what I did today, not detail explanation on this repo.
+5. Write just the link what ㅡI did today, not detail explanation on this repo.
 
 
 
@@ -401,7 +401,5 @@ The goal is to update this everyday... maybe
 * (01/20/2020) Unreal Engine Bone Match Processing  
 
 * (01/21/2020) Unreal Engine Bone Match Processing  
-
-## Now Listen  
-
-
+  
+* (01/22/2020) Unreal Engine Bone Match Processing  
