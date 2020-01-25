@@ -406,4 +406,6 @@ The goal is to update this everyday... maybe
 
 * (01/23/2020) Unreal Engine Bone Match Processing  
 
-* (01/24/2020) Adapting Openpose to Unreal Steel
+* (01/24/2020) Adapting Openpose to Unreal Steel  
+
+* (01/25/2020) Adapting Openpose to Unreal Steel  
