@@ -411,3 +411,5 @@ The goal is to update this everyday... maybe
 * (01/25/2020) Adapting Openpose to Unreal Steel  
 
 * (01/26/2020) Adapting Openpose to Unreal Steel  
+
+* (01/27/2020) Adapting Openpose to Unreal Steel  
