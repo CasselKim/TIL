@@ -419,3 +419,5 @@ The goal is to update this everyday... maybe
 * (01/29/2020) Unreal Engine Bone Match Processing Retry  
 
 * (01/30/2020) GAN Study  
+
+* (01/31/2020) GAN Study  
