@@ -8,7 +8,7 @@ Just saving what I Leaned today
 3. Upload detailed articles and explanation on Notion
 4. Do coding as many as possible at least easy one
 5. Write just the link what ㅡI did today, not detail explanation on this repo.  
-  
+
 **[2020/02/01 Amended form of TIL]**
 1. Since it is too hard for detaching my personal study log with coding and project, commit blocks get messed up with meaningless and unrelated contents
 2. Totally reorganize my plan, which is refered to other's daily commit, TIL log
@@ -31,12 +31,12 @@ Just saving what I Leaned today
 
 ## TIL List
 
-* [Coding](./Coding)
+* [Coding Practice](./Coding)
 
-* [NN](./NN)
+* [Artificial Intelligence](./NN)
 
 * [Electronic Engineering](./Electronic)
 
-* [After Effect Outcome](https://www.youtube.com/watch?v=2WhzsvoYrRw)
+* [After Effect](https://www.youtube.com/watch?v=2WhzsvoYrRw)  
 
 * [DataStructure](DataStructure/README.md)  
