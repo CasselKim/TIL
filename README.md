@@ -2,8 +2,6 @@
 
 Just saving what I Leaned today
 
-The goal is to update this everyday... maybe
-
 **[2020 Reorganization form of TIL]**
 1. Do not abuse for filling commit blocks
 2. Upload summarized documents and  project tutorials on Github repository
