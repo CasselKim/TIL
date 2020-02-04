@@ -4,14 +4,14 @@ Just saving what I Leaned today
 
 The goal is to update this everyday... maybe
 
-[2020 Reorganization form of TIL]
+**[2020 Reorganization form of TIL]**
 1. Do not abuse for filling commit blocks
 2. Upload summarized documents and  project tutorials on Github repository
 3. Upload detailed articles and explanation on Notion
 4. Do coding as many as possible at least easy one
 5. Write just the link what ㅡI did today, not detail explanation on this repo.  
   
-[2020/02/01 Amended form of TIL]  
+**[2020/02/01 Amended form of TIL]**
 1. Since it is too hard for detaching my personal study log with coding and project, commit blocks get messed up with meaningless and unrelated contents
 2. Totally reorganize my plan, which is refered to other's daily commit, TIL log
    * [https://github.com/namjunemy/TIL](https://github.com/namjunemy/TIL)  
