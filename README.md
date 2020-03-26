@@ -31,9 +31,9 @@ Just saving what I Leaned today
 
 ## TIL List
 
-* [Artificial Intelligence]()
+* [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
 * [DataStructure]()
-* [Web Crawling]()  
+* [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 
 　  
 
