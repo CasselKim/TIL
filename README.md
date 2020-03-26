@@ -37,7 +37,7 @@ Just saving what I Leaned today
 
 　  
 
-[Artificial Intelligence](./NN)  
+#### [Artificial Intelligence](./NN)  
 
 * [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
 
@@ -46,7 +46,7 @@ Just saving what I Leaned today
 
   
 
-[Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
+#### [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
 * [Beautiful Soup](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81#cced03f3ee3044f59af6c81054654794)
   * [.select()](https://www.notion.so/casselkim/select-8715c962061b48ed977be26bac44643d)  
