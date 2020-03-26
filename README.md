@@ -31,17 +31,20 @@ Just saving what I Leaned today
 
 ## TIL List
 
-* [Coding Practice](./Coding)
-
-* [Artificial Intelligence](./NN)
-
-* [Electronic Engineering](./Electronic)
-
-* [After Effect](https://www.youtube.com/watch?v=2WhzsvoYrRw)  
-
-* [DataStructure](DataStructure/README.md)  
+* [Artificial Intelligence]()
+* [DataStructure]()
+* [Web Crawling]()  
 
 　  
+
+[Artificial Intelligence](./NN)  
+
+* [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
+
+* [Random Forest](NN/H.AI/RandomForest.pptx)  
+* [Softmax](NN/H.AI/Softmax.pptx)  
+
+  
 
 [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
