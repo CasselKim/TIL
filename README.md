@@ -51,4 +51,4 @@ Just saving what I Leaned today
   * [select()](https://www.notion.so/casselkim/select-8715c962061b48ed977be26bac44643d)  
   * [find(), find_all()](https://www.notion.so/casselkim/find-find_all-e998f04a42f8414e9b4007bbbdf977a0)  
 * [Selenium](https://www.notion.so/casselkim/Selenium-0c5b61217a07451e83ad495bf69c2b2e)  
-  * [methond list](https://www.notion.so/casselkim/Selenium-0c5b61217a07451e83ad495bf69c2b2e#e239ba630cb944cc9a7fef8aadb0714b)  
+  * [method list](https://www.notion.so/casselkim/Selenium-0c5b61217a07451e83ad495bf69c2b2e#e239ba630cb944cc9a7fef8aadb0714b)  
