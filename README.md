@@ -40,7 +40,6 @@ Just saving what I Leaned today
 #### [Artificial Intelligence](./NN)  
 
 * [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
-
 * [Random Forest](NN/H.AI/RandomForest.pptx)  
 * [Softmax](NN/H.AI/Softmax.pptx)  
 
@@ -48,8 +47,8 @@ Just saving what I Leaned today
 
 #### [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
-* [Beautiful Soup](https://www.notion.so/casselkim/BeautifulSoup-be1cde265951473282384baebecf6069)
+* [Beautiful Soup](https://www.notion.so/casselkim/BeautifulSoup-be1cde265951473282384baebecf6069)  
   * [select()](https://www.notion.so/casselkim/select-8715c962061b48ed977be26bac44643d)  
-  * [find(), find_all()](https://www.notion.so/casselkim/find-find_all-e998f04a42f8414e9b4007bbbdf977a0)
+  * [find(), find_all()](https://www.notion.so/casselkim/find-find_all-e998f04a42f8414e9b4007bbbdf977a0)  
 * [Selenium](https://www.notion.so/casselkim/Selenium-0c5b61217a07451e83ad495bf69c2b2e)  
   * [methond list](https://www.notion.so/casselkim/Selenium-0c5b61217a07451e83ad495bf69c2b2e#e239ba630cb944cc9a7fef8aadb0714b)  
