@@ -32,7 +32,7 @@ Just saving what I Leaned today
 ## TIL List
 
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
-* [Data Structure]()
+* [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 　  
 
