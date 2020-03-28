@@ -40,8 +40,11 @@ Just saving what I Leaned today
 #### [Artificial Intelligence](./NN)  
 
 * [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
-* [Random Forest](NN/H.AI/RandomForest.pptx)  
-* [Softmax](NN/H.AI/Softmax.pptx)  
+* AI Study  
+  * [CS231n](https://www.notion.so/casselkim/CS231n-6028b4b80bd44945bf2f5cd1547d7c99)  
+* Machine Learning Algorithm  
+  * [Random Forest](NN/H.AI/RandomForest.pptx)  
+  * [Softmax](NN/H.AI/Softmax.pptx)  
 
   
 
