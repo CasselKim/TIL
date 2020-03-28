@@ -32,9 +32,8 @@ Just saving what I Leaned today
 ## TIL List
 
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
-* [DataStructure]()
+* [Data Structure]()
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
-
 　  
 
 #### [Artificial Intelligence](./NN)  
@@ -46,8 +45,10 @@ Just saving what I Leaned today
   * [Random Forest](NN/H.AI/RandomForest.pptx)  
   * [Softmax](NN/H.AI/Softmax.pptx)  
 
-  
+    
+#### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
+    
 #### [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
 * [Beautiful Soup](https://www.notion.so/casselkim/BeautifulSoup-be1cde265951473282384baebecf6069)  
