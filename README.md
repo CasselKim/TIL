@@ -30,13 +30,16 @@ Just saving what I Leaned today
 
 
 ## TIL List
-
+* [Algorithm]()
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Networking](https://github.com/CasselKim/TIL/blob/master/README.md#networking)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 　  
 
+#### [Algorithm]
+* [Time Complexity](https://blex.me/@baealex/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95%EB%B3%84-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84)  
+    
 #### [Artificial Intelligence](./NN)  
 
 * [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
