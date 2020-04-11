@@ -55,7 +55,6 @@ Just saving what I Leaned today
 
     
 #### [Multimedia System](https://www.notion.so/5d6fce79ed40433ea37f1cbd5e0b5509)
-* [DSI/CSI](DSI,CSI.hwp)
 * Dithering
   * [Error Diffusion Dithering](https://www.notion.so/casselkim/Error-Diffusion-Dithering-e5ec89319f1946bfb7f06e1e1d19816f)
 
