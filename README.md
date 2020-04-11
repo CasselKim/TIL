@@ -54,8 +54,11 @@ Just saving what I Leaned today
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
     
-#### [Multimedia System](https://www.notion.so/5d6fce79ed40433ea37f1cbd5e0b5509)  
-  
+#### [Multimedia System](https://www.notion.so/5d6fce79ed40433ea37f1cbd5e0b5509)
+* [DSI/CSI](DSI,CSI.hwp)
+* Dithering
+  * [Error Diffusion Dithering](https://www.notion.so/casselkim/Error-Diffusion-Dithering-e5ec89319f1946bfb7f06e1e1d19816f)
+
     
 #### NetWorking
 * [Socket Programming](https://www.notion.so/casselkim/Socket-Programming-116f303b3ee64ea88b86487841b32c0b)  
