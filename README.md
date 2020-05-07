@@ -32,6 +32,7 @@ Just saving what I Leaned today
 ## TIL List
 * [Algorithm](https://github.com/CasselKim/TIL/blob/master/README.md#algorithm)
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
+* [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
 * [Networking](https://github.com/CasselKim/TIL/blob/master/README.md#networking)
@@ -40,10 +41,6 @@ Just saving what I Leaned today
 
 #### Algorithm
 * [Time Complexity](https://blex.me/@baealex/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95%EB%B3%84-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84)  
-    
-#### Automatic Control System
-* [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
-* [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
     
 #### [Artificial Intelligence](./NN)  
 
@@ -54,6 +51,10 @@ Just saving what I Leaned today
   * [Random Forest](NN/H.AI/RandomForest.pptx)  
   * [Softmax](NN/H.AI/Softmax.pptx)  
 
+    
+#### [Automatic Control System](https://www.notion.so/casselkim/636dcab144cd4e9692bf3647a84e6deb)
+* [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
+* [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
     
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
