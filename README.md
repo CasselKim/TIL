@@ -41,6 +41,10 @@ Just saving what I Leaned today
 #### Algorithm
 * [Time Complexity](https://blex.me/@baealex/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%ED%98%95%EB%B3%84-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EB%B3%B5%EC%9E%A1%EB%8F%84)  
     
+#### Automatic Control System
+* [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
+* [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
+    
 #### [Artificial Intelligence](./NN)  
 
 * [AI ethics](https://github.com/CasselKim/UsefulArticles#ai-ethics)  
