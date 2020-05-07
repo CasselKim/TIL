@@ -55,6 +55,7 @@ Just saving what I Leaned today
 #### [Automatic Control System](https://www.notion.so/casselkim/636dcab144cd4e9692bf3647a84e6deb)
 * [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
 * [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
+* [Modeling](https://www.notion.so/casselkim/Modeling-2943fec3b5bd4a4ea56f9d7e20eee4b4)  
     
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
