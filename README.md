@@ -56,6 +56,7 @@ Just saving what I Leaned today
 * [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
 * [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
 * [Modeling](https://www.notion.so/casselkim/Modeling-2943fec3b5bd4a4ea56f9d7e20eee4b4)  
+* [Time Domain Analysis](https://www.notion.so/casselkim/Time-Domain-Analysis-94ff498f830e48e882c3eece38b7464b)  
     
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
