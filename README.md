@@ -61,7 +61,7 @@ Just saving what I Leaned today
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)
 
     
-#### [Multimedia System](https://www.notion.so/casselkim/14c13ce10c3946bbba9ff3a55a68b7ff)
+#### [Multimedia System](https://www.notion.so/casselkim/5d6fce79ed40433ea37f1cbd5e0b5509)
 * [Camera](https://www.notion.so/casselkim/14c13ce10c3946bbba9ff3a55a68b7ff)
 * [Camera Interface](https://www.notion.so/casselkim/14c13ce10c3946bbba9ff3a55a68b7ff)
 * Dithering
