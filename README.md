@@ -54,7 +54,7 @@ Just saving what I Leaned today
     
 #### [Automatic Control System](https://www.notion.so/casselkim/636dcab144cd4e9692bf3647a84e6deb)
 * [What is Control?](https://www.notion.so/casselkim/What-is-Control-a8b30e5794de4830a80cd7905e8ed458)  
-* [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3)  
+* [Block Diagrams, Laplace Transform](https://www.notion.so/casselkim/Block-Diagrams-Laplace-Transform-ddcfcafd2f63447398d8debaeb8c92a3) 
 * [Modeling](https://www.notion.so/casselkim/Modeling-2943fec3b5bd4a4ea56f9d7e20eee4b4)  
 * [Time Domain Analysis](https://www.notion.so/casselkim/Time-Domain-Analysis-94ff498f830e48e882c3eece38b7464b)  
     
@@ -62,8 +62,8 @@ Just saving what I Leaned today
 
     
 #### [Multimedia System](https://www.notion.so/casselkim/5d6fce79ed40433ea37f1cbd5e0b5509)
-* [Camera](https://www.notion.so/casselkim/14c13ce10c3946bbba9ff3a55a68b7ff)
-* [Camera Interface](https://www.notion.so/casselkim/14c13ce10c3946bbba9ff3a55a68b7ff)
+* [Camera](https://www.notion.so/casselkim/Camera-709e448cb95b476991130f5b230d5e63)
+* [Camera Interface](https://www.notion.so/casselkim/Camera-Interface-3f5b78dafaca4760b15cb00a4768c2af)
 * Dithering
   * [Error Diffusion Dithering](https://www.notion.so/casselkim/Error-Diffusion-Dithering-e5ec89319f1946bfb7f06e1e1d19816f)
 
