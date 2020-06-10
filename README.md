@@ -67,6 +67,7 @@ Just saving what I Leaned today
 * [Color](https://www.notion.so/casselkim/Color-b9d0765d07c445d58349c6dc00dbdb0b)
 * [Image Processing](https://www.notion.so/casselkim/Image-Processing-ccc27ff32e4d48e9b985626fd480098d)  
 * [TV](https://www.notion.so/casselkim/TV-5d00597832104804a747ca79eaca6865)
+* [Lossy-less Compression](https://www.notion.so/casselkim/Loss-less-Compression-68ff712a0f704a839e3754c29b8a4f8b)  
 
     
 #### NetWorking
