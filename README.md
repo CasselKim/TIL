@@ -70,6 +70,7 @@ Just saving what I Leaned today
 * [Loss-less Compression](https://www.notion.so/casselkim/Loss-less-Compression-68ff712a0f704a839e3754c29b8a4f8b)  
 * [Lossy Compression](https://www.notion.so/casselkim/Lossy-Compression-0d460f7f5d1347ff8f2654b3e094deea)
 * [JPEG](https://www.notion.so/casselkim/JPEG-9062ad343ad74450867124a63a478ca0)
+* [Computer Vision](https://www.notion.so/casselkim/Computer-Vision-f0bbf727244b44148fd69f4d532101f4)
 
     
 #### NetWorking
