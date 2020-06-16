@@ -35,7 +35,7 @@ Just saving what I Leaned today
 * [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
-* [Networking](https://github.com/CasselKim/TIL/blob/master/README.md#networking)
+* [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#networking)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 　  
 
@@ -73,10 +73,8 @@ Just saving what I Leaned today
 * [Computer Vision](https://www.notion.so/casselkim/Computer-Vision-f0bbf727244b44148fd69f4d532101f4)
 
     
-#### NetWorking
-* [Socket Programming](https://www.notion.so/casselkim/Socket-Programming-116f303b3ee64ea88b86487841b32c0b)  
-  * [TCP](https://www.notion.so/casselkim/Socket-Programming-116f303b3ee64ea88b86487841b32c0b#0aedd968a0d54f658191f034d8452d9b)
-  * [UDP](https://www.notion.so/casselkim/Socket-Programming-116f303b3ee64ea88b86487841b32c0b#69f1601ccf75434886d4dee40b8f4b35)  
+#### [NetWork Control System](https://www.notion.so/casselkim/50d5076127304976a3b37898445c2a48)
+ * [System Architectures](https://www.notion.so/casselkim/System-Architectures-48b6dac8a2674e63ae0dc07aa907d3c9)
 
 #### [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
