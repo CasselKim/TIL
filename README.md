@@ -73,7 +73,7 @@ Just saving what I Leaned today
 * [Computer Vision](https://www.notion.so/casselkim/Computer-Vision-f0bbf727244b44148fd69f4d532101f4)
 
     
-#### [NetWork Control System](https://www.notion.so/casselkim/50d5076127304976a3b37898445c2a48)
+#### [Network Control System](https://www.notion.so/casselkim/50d5076127304976a3b37898445c2a48)
  * [System Architectures](https://www.notion.so/casselkim/System-Architectures-48b6dac8a2674e63ae0dc07aa907d3c9)
  * [Network Effects](https://www.notion.so/casselkim/Network-Effects-f5c2f22b1eab4055895ddc57d5ff1ba7)
 
