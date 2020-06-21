@@ -77,6 +77,7 @@ Just saving what I Leaned today
  * [System Architectures](https://www.notion.so/casselkim/System-Architectures-48b6dac8a2674e63ae0dc07aa907d3c9)
  * [Network Effects](https://www.notion.so/casselkim/Network-Effects-f5c2f22b1eab4055895ddc57d5ff1ba7)
  * [Common Tech](https://www.notion.so/casselkim/Common-Tech-2394b19f969049549e02a26d56a86f25)
+ * [Event Triggered Protocols - CAN, LIN](https://www.notion.so/casselkim/Event-Triggered-Protocols-CAN-LIN-438c96ab91fd44e8872934fbb7e80801)
 
 #### [Web Crawling](https://www.notion.so/casselkim/Web-Crawling-23f2f76b83b9459298a9819d679dda81)  
 
