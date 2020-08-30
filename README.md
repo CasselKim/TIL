@@ -50,6 +50,7 @@ Just saving what I Leaned today
 * Machine Learning Algorithm  
   * [Random Forest](NN/H.AI/RandomForest.pptx)  
   * [Softmax](NN/H.AI/Softmax.pptx)  
+* [Transfer Learning](https://www.notion.so/casselkim/72c702d703d345f488f66d6e7d5c0a4d)
 
     
 #### [Automatic Control System](https://www.notion.so/casselkim/636dcab144cd4e9692bf3647a84e6deb)
