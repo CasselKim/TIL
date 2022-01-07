@@ -89,6 +89,8 @@ Just saving what I Leaned today
  * [Network Effects](https://www.notion.so/casselkim/Network-Effects-f5c2f22b1eab4055895ddc57d5ff1ba7)
  * [Common Tech](https://www.notion.so/casselkim/Common-Tech-2394b19f969049549e02a26d56a86f25)
  * [Event Triggered Protocols - CAN, LIN](https://www.notion.so/casselkim/Event-Triggered-Protocols-CAN-LIN-438c96ab91fd44e8872934fbb7e80801)
+
+#### [SQL]()
     
 #### [Visual System and Psychophysics of Vision](https://www.notion.so/casselkim/43d8025920864c5e9f9a2b375cc9e4fb)  
  * [Introduction](https://www.notion.so/casselkim/Visual-System-and-Psychophysics-of-Vision-bfab8be5a1b945358bfdea33076684e1)
