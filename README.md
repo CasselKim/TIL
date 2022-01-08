@@ -65,6 +65,7 @@ Just saving what I Leaned today
 #### [Computer Systems](https://www.notion.so/casselkim/8127f05d953b439ca5c032b1941bcbe1)
     
 #### [Data Engineering](https://www.notion.so/casselkim/GCP-d1f7cc64d9ac40fd8426763f6deaca5d)  
+* [GCP Data Engineer corsera](https://casselkim.notion.site/Google-Cloud-Big-Data-and-Machine-Learning-Fundamentals-d1f7cc64d9ac40fd8426763f6deaca5d)  
     
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)  
 
