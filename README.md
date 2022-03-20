@@ -1,27 +1,5 @@
 # Today I Leaned(TIL)
 
-Just saving what I Leaned today
-
-**[2020 fixed form of TIL]**
-1. Do not abuse for filling commit blocks
-2. Upload summarized documents and  project tutorials on Github repository
-3. Upload detailed articles and explanation on Notion
-4. Do coding as many as possible at least easy one
-5. Write just the link what ㅡI did today, not detail explanation on this repo.  
-
-**[2020/02/01 fixed form of TIL]**
-1. Since it is too hard for detaching my personal study log with coding and project, commit blocks get messed up with meaningless and unrelated contents
-2. Totally reorganize my plan, which is refered to other's daily commit, TIL log
-   * [https://github.com/namjunemy/TIL](https://github.com/namjunemy/TIL)  
-   * [http://milooy.github.io/TIL/](http://milooy.github.io/TIL/)  
-   * [https://wayhome25.github.io/](https://wayhome25.github.io/)  
-   * [https://github.com/ksu3101/TIL](https://github.com/ksu3101/TIL)  
-3. So I decide to stop daily commit and delete all of study log
-
-## Destination
-* To be a good developer
-* Lasting and continuous learning
-
 ## Rules
 * **Do not abuse for filling commit blocks** - mostly important, Do meaningful commit
 * Upload my study log at Notion, and do not commit for this
@@ -37,6 +15,7 @@ Just saving what I Leaned today
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Database](https://github.com/CasselKim/TIL/blob/master/README.md#database)  
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
+* [Network](https://github.com/CasselKim/TIL/blob/master/README.md#network)
 * [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#network-control-system)
 * [Visual System and Psychophysics of Vision](https://github.com/CasselKim/TIL/blob/master/README.md#visual-system-and-psychophysics-of-vision)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
@@ -87,7 +66,14 @@ Just saving what I Leaned today
 * [Lossy Compression](https://www.notion.so/casselkim/Lossy-Compression-0d460f7f5d1347ff8f2654b3e094deea)
 * [JPEG](https://www.notion.so/casselkim/JPEG-9062ad343ad74450867124a63a478ca0)
 * [Computer Vision](https://www.notion.so/casselkim/Computer-Vision-f0bbf727244b44148fd69f4d532101f4)
-
+     
+#### [Network](https://casselkim.notion.site/Cisco-c35632790a7b42a098234fa3aaca06ad)
+ * [Switch and Bridge](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#15ea0a3536d64ac59cb4564afde2d05a)
+ * [Router](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#1df8ad229aff48c7bb870f711566d506)
+ * [WAN](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#00cc8b4b47ea426ab708870c3615984a)
+ * [Wireless Networking](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#b4d251be382c42279e28e3d7e6c7f90b)
+ * [IPv6](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#c40dde232533442295cc417fccc639b6)
+ * [Port Forwarding](https://www.notion.so/casselkim/Cisco-c35632790a7b42a098234fa3aaca06ad#b6bde5b1a2c8482a8425cff02dbf0c28)
     
 #### [Network Control System](https://www.notion.so/casselkim/50d5076127304976a3b37898445c2a48)
  * [System Architectures](https://www.notion.so/casselkim/System-Architectures-48b6dac8a2674e63ae0dc07aa907d3c9)
