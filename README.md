@@ -17,7 +17,7 @@
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
 * [Network](https://github.com/CasselKim/TIL/blob/master/README.md#network)
 * [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#network-control-system)
-* [Testing](https://github.com/CasselKim/TIL/edit/master/README.md#testing)
+* [Testing](https://github.com/CasselKim/TIL/blob/master/README.md#testing)
 * [Visual System and Psychophysics of Vision](https://github.com/CasselKim/TIL/blob/master/README.md#visual-system-and-psychophysics-of-vision)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 　  
