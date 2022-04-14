@@ -83,7 +83,7 @@
  * [Common Tech](https://www.notion.so/casselkim/Common-Tech-2394b19f969049549e02a26d56a86f25)
  * [Event Triggered Protocols - CAN, LIN](https://www.notion.so/casselkim/Event-Triggered-Protocols-CAN-LIN-438c96ab91fd44e8872934fbb7e80801)
 
-#### OS
+#### [OS](https://casselkim.notion.site/8d97a04487c546a39202c3d13d891a28)
  * [Introduction](https://casselkim.notion.site/Introduction-64687829f90b42acaa62cb74d0fad1b3)  
  * [Operating System Structure](https://casselkim.notion.site/Operating-System-Structure-7785a832501f49809e93aaf25003185e)
  * [Process](https://casselkim.notion.site/Process-0a33d28d78564db1abdce0962d5a38c6)  
