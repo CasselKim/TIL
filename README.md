@@ -17,7 +17,7 @@
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
 * [Network](https://github.com/CasselKim/TIL/blob/master/README.md#network)
 * [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#network-control-system)
-* [OS](https://casselkim.notion.site/e63caec09713421692ae31e934b8d8ad)
+* [OS](https://github.com/CasselKim/TIL/blob/master/README.md#os)
 * [Testing](https://github.com/CasselKim/TIL/blob/master/README.md#testing)
 * [Visual System and Psychophysics of Vision](https://github.com/CasselKim/TIL/blob/master/README.md#visual-system-and-psychophysics-of-vision)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
@@ -82,6 +82,13 @@
  * [Network Effects](https://www.notion.so/casselkim/Network-Effects-f5c2f22b1eab4055895ddc57d5ff1ba7)
  * [Common Tech](https://www.notion.so/casselkim/Common-Tech-2394b19f969049549e02a26d56a86f25)
  * [Event Triggered Protocols - CAN, LIN](https://www.notion.so/casselkim/Event-Triggered-Protocols-CAN-LIN-438c96ab91fd44e8872934fbb7e80801)
+
+#### OS
+ * [Introduction](https://casselkim.notion.site/Introduction-64687829f90b42acaa62cb74d0fad1b3)  
+ * [Operating System Structure](https://casselkim.notion.site/Operating-System-Structure-7785a832501f49809e93aaf25003185e)
+ * [Process](https://casselkim.notion.site/Process-0a33d28d78564db1abdce0962d5a38c6)  
+ * [Threads](https://casselkim.notion.site/Threads-1ef5e55d52ba4d5889c57893cc51398e)
+ * [Synchronize](https://casselkim.notion.site/Synchronize-405fc7770bd14373b214411db1794f36)
 
 #### Testing
  * [Software Testing Introduction](https://casselkim.notion.site/a27a940ef623469e902d03978c2fe904)
