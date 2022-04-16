@@ -13,7 +13,8 @@
 * [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Engineering](https://github.com/CasselKim/TIL/blob/master/README.md#data-engineering)  
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
-* [Database](https://github.com/CasselKim/TIL/blob/master/README.md#database)  
+* [Database](https://github.com/CasselKim/TIL/blob/master/README.md#database) 
+* [Information Retrieval] (https://github.com/CasselKim/TIL/blob/master/README.md#information-retrieval) 
 * [Multimedia System](https://github.com/CasselKim/TIL/blob/master/README.md#multimedia-system)  
 * [Network](https://github.com/CasselKim/TIL/blob/master/README.md#network)
 * [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#network-control-system)
@@ -56,6 +57,12 @@
 
 #### [Database]()  
 * [DB Environment setting]()  
+
+#### [Information Retrieval](https://casselkim.notion.site/eb3df71e85944eea8488e24d4d96c835) // [terms](https://casselkim.notion.site/ccb50b2c0b5e4c24a1b7382febca8c13)
+* [Introduction](https://casselkim.notion.site/Introduction-d496493cd4d747638699612d6cfccedf)  
+* [Documents and Tokens](https://casselkim.notion.site/Documents-and-Tokens-c342f1122b424adf8290fd91110c1e98)
+* [Dictonary](https://casselkim.notion.site/Dictonary-5e9899bdeeef4b6db7f674a45f38f874)
+* [Index Construction](https://casselkim.notion.site/Index-Construction-235c6e58b5b04e6593ca83a0b6bb5568)  
 
     
 #### [Multimedia System](https://www.notion.so/casselkim/5d6fce79ed40433ea37f1cbd5e0b5509)
