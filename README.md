@@ -12,6 +12,7 @@
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
 * [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Engineering](https://github.com/CasselKim/TIL/blob/master/README.md#data-engineering)  
+* [Data Mining](https://github.com/CasselKim/TIL/blob/master/README.md#data-mining)
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Database](https://github.com/CasselKim/TIL/blob/master/README.md#database) 
 * [Information Retrieval](https://github.com/CasselKim/TIL/blob/master/README.md#information-retrieval--terms) 
@@ -52,7 +53,13 @@
   * [Data Lake](https://www.notion.so/casselkim/Modernizing-Data-Lakes-and-Data-Warehouses-with-GCP-39132000892b49a99631f3045114f52d#53c6a2cc3b42427a9f99f7eaa225e89c)
   * [Data Warehouse](https://www.notion.so/casselkim/Modernizing-Data-Lakes-and-Data-Warehouses-with-GCP-39132000892b49a99631f3045114f52d#f50c5f3139d2417aae1fb266b148f84b)  
   * [Data Pipeline](https://casselkim.notion.site/Building-Batch-Data-Pipelines-on-GCP-b201c8641624469ebd635e5e6990606d)
-    
+
+#### [Data Mining](https://casselkim.notion.site/1134bab885a94633bcd3e4e05043eefc) // [terms](https://casselkim.notion.site/8d97a04487c546a39202c3d13d891a28)  
+* [Introduction](https://casselkim.notion.site/Introduction-d911ff7fe6e8403ebced46fafd1d4a7b)
+* [Data Exploration](https://casselkim.notion.site/Data-Exploration-7504cf172ad8418b9cd7a420fae66f4d)
+* [Decision Tree](https://casselkim.notion.site/Decision-Tree-4dc3ac6324244a0298bd8a3bb294954d)
+* [Classification](https://casselkim.notion.site/Classification-782ce41f322f4160b975492b4f9ed133)
+
 #### [Data Structure](https://github.com/CasselKim/TIL/tree/master/DataStructure)  
 
 #### [Database]()  
