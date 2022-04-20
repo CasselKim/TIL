@@ -12,7 +12,7 @@
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
 * [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Engineering](https://github.com/CasselKim/TIL/blob/master/README.md#data-engineering)  
-* [Data Mining](https://github.com/CasselKim/TIL/blob/master/README.md#data-mining)
+* [Data Mining](https://github.com/CasselKim/TIL/blob/master/README.md#data-mining--terms)
 * [Data Structure](https://github.com/CasselKim/TIL/blob/master/README.md#data-structure)
 * [Database](https://github.com/CasselKim/TIL/blob/master/README.md#database) 
 * [Information Retrieval](https://github.com/CasselKim/TIL/blob/master/README.md#information-retrieval--terms) 
@@ -104,7 +104,7 @@
  * [Threads](https://casselkim.notion.site/Threads-1ef5e55d52ba4d5889c57893cc51398e)
  * [Synchronize](https://casselkim.notion.site/Synchronize-405fc7770bd14373b214411db1794f36)
 
-#### Testing
+#### [Testing](https://casselkim.notion.site/2e42b8186134480e9287bb4ab5f16066) // [terms](https://casselkim.notion.site/7eb6f2183b9c47fbb36dd0ce907fd22e)
  * [Software Testing Introduction](https://casselkim.notion.site/a27a940ef623469e902d03978c2fe904)
  * [Software Testing Theory](https://casselkim.notion.site/432ea79617c14ee6afce346c0eb19e49)
  * [Software Lifecylce and Test](https://casselkim.notion.site/15d1aa4369f74b52b332a49519da5b2b)
