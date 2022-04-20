@@ -20,7 +20,7 @@
 * [Network](https://github.com/CasselKim/TIL/blob/master/README.md#network)
 * [Network Control System](https://github.com/CasselKim/TIL/blob/master/README.md#network-control-system)
 * [OS](https://github.com/CasselKim/TIL/blob/master/README.md#os--terms)
-* [Testing](https://github.com/CasselKim/TIL/blob/master/README.md#testing)
+* [Testing](https://github.com/CasselKim/TIL/blob/master/README.md#testing--terms)
 * [Visual System and Psychophysics of Vision](https://github.com/CasselKim/TIL/blob/master/README.md#visual-system-and-psychophysics-of-vision)
 * [Web Crawling](https://github.com/CasselKim/TIL/blob/master/README.md#web-crawling)  
 　  
