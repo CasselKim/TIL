@@ -100,7 +100,7 @@
 #### OS // [terms](https://casselkim.notion.site/8d97a04487c546a39202c3d13d891a28)
  * [Introduction](https://casselkim.notion.site/Introduction-64687829f90b42acaa62cb74d0fad1b3)  
  * [Operating System Structure](https://casselkim.notion.site/Operating-System-Structure-7785a832501f49809e93aaf25003185e)
- * [Process](https://casselkim.notion.site/Process-0a33d28d78564db1abdce0962d5a38c6)  
+ * [Process](https://ksrok.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)  
  * [Threads](https://casselkim.notion.site/Threads-1ef5e55d52ba4d5889c57893cc51398e)
  * [Synchronize](https://casselkim.notion.site/Synchronize-405fc7770bd14373b214411db1794f36)
 
