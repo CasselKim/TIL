@@ -10,6 +10,7 @@
 ## TIL List
 * [Algorithm](https://github.com/CasselKim/TIL/blob/master/README.md#algorithm)
 * [Artificial Intelligence](https://github.com/CasselKim/TIL/blob/master/README.md#artificial-intelligence)
+* [Architecture]()
 * [Automatic Control System](https://github.com/CasselKim/TIL/blob/master/README.md#automatic-control-system)
 * [Data Engineering](https://github.com/CasselKim/TIL/blob/master/README.md#data-engineering)  
 * [Data Mining](https://github.com/CasselKim/TIL/blob/master/README.md#data-mining--terms)
@@ -37,6 +38,9 @@
   * [Random Forest](NN/H.AI/RandomForest.pptx)  
   * [Softmax](NN/H.AI/Softmax.pptx)  
 * [Transfer Learning](https://www.notion.so/casselkim/72c702d703d345f488f66d6e7d5c0a4d)
+
+#### Architecture
+* [Django](https://ksrok.tistory.com/entry/%EC%9E%A5%EA%B3%A0-%EC%84%A4%EA%B3%84%EC%B2%A0%ED%95%99-Djangos-design-philosophies)
 
     
 #### [Automatic Control System](https://www.notion.so/casselkim/636dcab144cd4e9692bf3647a84e6deb)
