@@ -108,6 +108,7 @@
  * [Threads](https://casselkim.notion.site/Threads-1ef5e55d52ba4d5889c57893cc51398e)
  * [Synchronize](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C6-%EB%8F%99%EA%B8%B0%ED%99%94-%EB%8F%84%EA%B5%AC%EB%93%A4)
  * [Main Memory[(https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C9-%EB%A9%94%EC%9D%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC)
+ * [I/O System](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C12-IO-%EC%8B%9C%EC%8A%A4%ED%85%9C)  
 
 #### [Testing](https://casselkim.notion.site/2e42b8186134480e9287bb4ab5f16066) // [terms](https://casselkim.notion.site/7eb6f2183b9c47fbb36dd0ce907fd22e)
  * [Software Testing Introduction](https://casselkim.notion.site/a27a940ef623469e902d03978c2fe904)
