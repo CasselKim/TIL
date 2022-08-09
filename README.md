@@ -111,6 +111,7 @@
  * [I/O System](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C12-IO-%EC%8B%9C%EC%8A%A4%ED%85%9C)  
  * [File System internals](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C15-%ED%8C%8C%EC%9D%BC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%82%B4%EB%B6%80%EA%B5%AC%EC%A1%B0-1)  
  * [Virtual Machine](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C18-%EA%B0%80%EC%83%81-%EB%A8%B8%EC%8B%A0)
+ * [Windows 10-1](https://ksrok.tistory.com/entry/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-21-1-%EC%9C%88%EB%8F%84%EC%9A%B0-10)
 
 #### [Testing](https://casselkim.notion.site/2e42b8186134480e9287bb4ab5f16066) // [terms](https://casselkim.notion.site/7eb6f2183b9c47fbb36dd0ce907fd22e)
  * [Software Testing Introduction](https://casselkim.notion.site/a27a940ef623469e902d03978c2fe904)
